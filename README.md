@@ -8,12 +8,12 @@ Have you heard of the [million monkey theorem](https://en.wikipedia.org/wiki/Inf
 
 ## Code
 
-![User stats](https://github-readme-stats.vercel.app/api?username=v341196137&show_icons=true&theme=tokyonight)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=v341196137&theme=tokyonight)
+![User stats](https://github-readme-stats.vercel.app/api?username=vivian-dai&show_icons=true&theme=tokyonight)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivian-dai&theme=tokyonight)
 
 Most of my projects are probably in either Java or Python. You should uh ignore the fact my most used language stats say differently.
 <!--
-**v341196137/v341196137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**vivian-dai/vivian-dai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
