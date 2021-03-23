@@ -9,7 +9,7 @@ Have you heard of the [million monkey theorem](https://en.wikipedia.org/wiki/Inf
 ## Code
 
 ![User stats](https://github-readme-stats.vercel.app/api?username=vivian-dai&show_icons=true&theme=tokyonight)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivian-dai&theme=tokyonight)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivian-dai&theme=tokyonight&layout=compact)
 
 Most of my projects are probably in either Java or Python. You should uh ignore the fact my most used language stats say differently.
 <!--
