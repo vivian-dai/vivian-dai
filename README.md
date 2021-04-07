@@ -14,8 +14,8 @@ Have you heard of the [million monkey theorem](https://en.wikipedia.org/wiki/Inf
 
 ## Code
 
-![User stats](https://github-readme-stats.vercel.app/api?username=vivian-dai&show_icons=true&theme=tokyonight)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivian-dai&theme=tokyonight&layout=compact&langs_count=10)
+[![User stats](https://github-readme-stats.vercel.app/api?username=vivian-dai&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivian-dai&theme=tokyonight&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 Most of my projects are probably in either Java or Python. If you exclude that one repository containing my group's final comp sci project for school, Python is by far my most used language.
 
