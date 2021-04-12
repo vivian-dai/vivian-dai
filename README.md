@@ -23,7 +23,7 @@ Most of my projects are probably in either Java or Python. If you exclude that o
 
 I like *attempting* CTFs from time to time. The keyword here is definitely "attemping" since I'm not exactly great at them.
 
-[![PicoCTF 2021 writeup](https://github-readme-stats.vercel.app/api/pin/?username=vivian-dai&repo=picoCTF2021-Writeup&theme=tokyonight)](https://github.com/vivian-dai/PicoCTF2021-Writeup)
+[![PicoCTF 2021 writeup](https://github-readme-stats.vercel.app/api/pin/?username=vivian-dai&repo=picoCTF2021-Writeup&theme=tokyonight)](https://vivian-dai.github.io/PicoCTF2021-Writeup/)
 [![angstromCTF 2021 Writeup](https://github-readme-stats.vercel.app/api/pin/?username=vivian-dai&repo=angstromCTF-2021-Writeup&theme=tokyonight)](https://github.com/vivian-dai/angstromCTF-2021-Writeup)
 
 <!--
