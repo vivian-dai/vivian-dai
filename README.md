@@ -41,11 +41,13 @@ I guess I'll only list the hackathons where we won stuff:
 
 ### Writeups
 
+A writeup written by me is most likely just a dump of thought process.
+
 #### CTFs
 
 <details>
 
-<summary>I like *attempting* CTFs from time to time. The keyword here is definitely "attemping" since I'm not exactly great at them.</summary>
+<summary>I like attempting CTFs from time to time. The keyword here is definitely "attemping" since I'm not exactly great at them.</summary>
 
 I plan to do more CTFs and only include major ones later.
 
