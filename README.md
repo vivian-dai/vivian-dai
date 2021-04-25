@@ -14,17 +14,68 @@ Have you heard of the [million monkey theorem](https://en.wikipedia.org/wiki/Inf
 
 ## Code
 
+<details>
+
+<summary>Here's some hopefully maybe cool coding related stuff I do:</summary>
+
 [![User stats](https://github-readme-stats.vercel.app/api?username=vivian-dai&show_icons=true&theme=tokyonight&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivian-dai&theme=tokyonight&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 Most of my projects are probably in either Java or Python. If you exclude that one repository containing my group's final comp sci project for school, Python is by far my most used language.
 
-### CTF Writeups
+Thank you to [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for the cards.
 
-I like *attempting* CTFs from time to time. The keyword here is definitely "attemping" since I'm not exactly great at them.
+### Hackathons
+
+<details>
+
+<summary>I think the right thing to say is "go check out my <a href="https://devpost.com/viviandai">Devpost</a>"</summary>
+
+I guess I'll only list the hackathons where we won stuff:
+
+[*YRHacks 2021*](https://yrhacks.devpost.com/): our team won the sustainabiity prize.
+
+[![YRHacks](https://github-readme-stats.vercel.app/api/pin/?username=KathleenX7&repo=YRHacks&theme=tokyonight)](https://github.com/KathleenX7/YRHacks)
+
+</details>
+
+### Writeups
+
+#### CTFs
+
+<details>
+
+<summary>I like *attempting* CTFs from time to time. The keyword here is definitely "attemping" since I'm not exactly great at them.</summary>
+
+I plan to do more CTFs and only include major ones later.
+
+[*PicoCTF 2021*](https://picoctf.org/competitions/2021-spring.html): our team ranked 353<sup>rd</sup> globally and 29<sup>th</sup> in Canada
 
 [![PicoCTF 2021 writeup](https://github-readme-stats.vercel.app/api/pin/?username=vivian-dai&repo=picoCTF2021-Writeup&theme=tokyonight)](https://vivian-dai.github.io/PicoCTF2021-Writeup/)
+
+[*Angstrom CTF 2021*](https://2021.angstromctf.com/): a 100% random CTF I attended. My team ranked 457<sup>th</sup>
+
 [![angstromCTF 2021 Writeup](https://github-readme-stats.vercel.app/api/pin/?username=vivian-dai&repo=angstromCTF-2021-Writeup&theme=tokyonight)](https://github.com/vivian-dai/angstromCTF-2021-Writeup)
+
+</details>
+
+#### Others
+
+<details>
+
+<summary>My non CTF writeups I thought might be worth a mention</summary>
+
+I swear I'm 100% qualified to be making writeups on other things:
+
+[*Over the Wire Bandit*](https://overthewire.org/wargames/bandit/) is a nice beginner level Wargame. I'm probably mostly using the [writeup](https://www.notion.so/Over-the-Wire-Bandit-d532f721481b4c298be2cb7a4db65514) to figure out how to use other tools
+
+[CCC](https://cemc.uwaterloo.ca/contests/past_contests.html#ccc) is the closest I'm ever going to get to competitive programming. I'll add more questions later.
+
+[![CCC solutions](https://github-readme-stats.vercel.app/api/pin/?username=vivian-dai&repo=CCC-solutions&theme=tokyonight)](https://github.com/vivian-dai/CCC-solutions)
+
+</details>
+
+</details>
 
 <!--
 **vivian-dai/vivian-dai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
