@@ -68,7 +68,7 @@ I guess I'll only list the hackathons where we won stuff:
 
 [*YRHacks 2021*](https://yrhacks.devpost.com/): our team won the sustainabiity prize.
 
-[![YRHacks](https://github-readme-stats.vercel.app/api/pin/?username=KathleenX7&repo=YRHacks&theme=tokyonight)](https://github.com/KathleenX7/YRHacks)
+[![YRHacks](https://github-readme-stats.vercel.app/api/pin/?username=KathleenX7&repo=YRHacks&theme=tokyonight&show_owner=true)](https://github.com/KathleenX7/YRHacks)
 
 </details>
 
@@ -86,11 +86,11 @@ I plan to do more CTFs and only include major ones later.
 
 [*PicoCTF 2021*](https://picoctf.org/competitions/2021-spring.html): our team ranked 353<sup>rd</sup> globally and 29<sup>th</sup> in Canada
 
-[![PicoCTF 2021 writeup](https://github-readme-stats.vercel.app/api/pin/?username=vivian-dai&repo=picoCTF2021-Writeup&theme=tokyonight)](https://vivian-dai.github.io/PicoCTF2021-Writeup/)
+[![PicoCTF 2021 writeup](https://github-readme-stats.vercel.app/api/pin/?username=vivian-dai&repo=picoCTF2021-Writeup&theme=tokyonight&show_owner=true)](https://vivian-dai.github.io/PicoCTF2021-Writeup/)
 
 [*Angstrom CTF 2021*](https://2021.angstromctf.com/): a 100% random CTF I attended. My team ranked 457<sup>th</sup>
 
-[![angstromCTF 2021 Writeup](https://github-readme-stats.vercel.app/api/pin/?username=vivian-dai&repo=angstromCTF-2021-Writeup&theme=tokyonight)](https://github.com/vivian-dai/angstromCTF-2021-Writeup)
+[![angstromCTF 2021 Writeup](https://github-readme-stats.vercel.app/api/pin/?username=vivian-dai&repo=angstromCTF-2021-Writeup&theme=tokyonight&show_owner=true)](https://github.com/vivian-dai/angstromCTF-2021-Writeup)
 
 </details>
 
@@ -106,7 +106,7 @@ I swear I'm 100% qualified to be making writeups on other things:
 
 [CCC](https://cemc.uwaterloo.ca/contests/past_contests.html#ccc) is the closest I'm ever going to get to competitive programming. I'll add more questions later.
 
-[![CCC solutions](https://github-readme-stats.vercel.app/api/pin/?username=vivian-dai&repo=CCC-solutions&theme=tokyonight)](https://github.com/vivian-dai/CCC-solutions)
+[![CCC solutions](https://github-readme-stats.vercel.app/api/pin/?username=vivian-dai&repo=CCC-solutions&theme=tokyonight&show_owner=true)](https://github.com/vivian-dai/CCC-solutions)
 
 </details>
 
