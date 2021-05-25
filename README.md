@@ -45,10 +45,14 @@ I definitely know what I'm doing
 
 <summary>Here's some hopefully maybe cool coding related stuff I do:</summary>
 
-[![User stats](https://github-readme-stats.vercel.app/api?username=vivian-dai&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivian-dai&count_private=true&include_all_commits=true&theme=tokyonight&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
 
-Most of my projects are probably in either Java or Python. If you exclude that one repository containing my group's final comp sci project for school, Python is by far my most used language.
+[![User stats](https://github-readme-stats.vercel.app/api?username=vivian-dai&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivian-dai&count_private=true&include_all_commits=true&theme=tokyonight&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vivian-dai&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+Most of my projects are probably in either Java or Python. Surprisingly enough, I actually do use Java for some things outside of school projects. My coding patterns are pretty random and depend entirely on how much motivation I have.
 
 ### Hackathons
 
@@ -63,6 +67,10 @@ I guess I'll only list the hackathons where we won stuff:
 [![YRHacks](https://github-readme-stats.vercel.app/api/pin/?username=KathleenX7&repo=YRHacks&theme=tokyonight&show_owner=true)](https://github.com/KathleenX7/YRHacks)
 
 </details>
+
+### Projects
+
+In all honesty, I've pinned my few cool projects but I'll probably update this later.
 
 ### Writeups
 
@@ -104,6 +112,16 @@ I swear I'm 100% qualified to be making writeups on other things:
 
 </details>
 
+## Where to Find Me
+
+<details>
+
+<summary>Wow here's a section I have yet to complete but will do later</summary>
+
+<a href="https://github.com/vivian-dai/"><img src="./assets/github.svg" width="32"></a>
+
+</details>
+
 ## Credits
 
 <details>
@@ -113,6 +131,8 @@ I swear I'm 100% qualified to be making writeups on other things:
 * Header image from [https://github.com/DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
 * Visitor badge from [https://github.com/jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge)
 * Top languages, Github stats, and Github repos from [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+* Coding streak from [https://github.com/DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+* SVG icons from [https://github.com/simple-icons/simple-icons#cdn-usage](https://github.com/simple-icons/simple-icons#cdn-usage), I added a fill for colours
 
 </details>
 
