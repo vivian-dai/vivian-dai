@@ -4,8 +4,6 @@
 
 </div>
 
-Hello! My name is Vivian Dai. I will say lots of seemingly out of context things like "☕ = 🍩" or "this quark has a strange flavor" but I swear I'm not insane and all these make sense :D
-
 ## Random Intro
 
 <details>
@@ -18,7 +16,9 @@ Visitors:
 
 I'm watching 👀
 
-Have you heard of the [million monkey theorem](https://en.wikipedia.org/wiki/Infinite_monkey_theorem) before? If you have a million monkeys who each spend a million years typing at a typewriter, somewhere, eventually, collectively, the entire works of Shakespeare will be typed out. In one of Janet Tashjian's works (I think this is right), it mentions the works of Shakespeare will not be the only thing that gets typed out. Somewhere along the way, several other important works will be typed out as well. However, most of the things the monkeys type is still giberish. This theorem is an accurate representation of how I work. I am but a mindless monkey who types things until things work. 🐒
+Hey, I'm Vivian Dai. I will say lots of seemingly out of context things like "☕ = 🍩" or "this quark has a strange flavor" but I swear I'm not insane and all these make sense :D
+
+Let's talk about monkeys. Have you heard of the [million monkey theorem](https://en.wikipedia.org/wiki/Infinite_monkey_theorem) before? If you have a million monkeys who each spend a million years typing at a typewriter, somewhere, eventually, collectively, the entire works of Shakespeare will be typed out. In one of Janet Tashjian's works (I think this is right), it mentions the works of Shakespeare will not be the only thing that gets typed out. Somewhere along the way, several other important works will be typed out as well. However, most of the things the monkeys type is still giberish. This theorem is an accurate representation of how I work. I am but a mindless monkey who types things until things work. 🐒
 
 </details>
 
@@ -70,11 +70,19 @@ I guess I'll only list the hackathons where we won stuff:
 
 ### Projects
 
-In all honesty, I've pinned my few cool projects but I'll probably update this later.
+<details>
+
+<summary>I'll showcase some of my cooler projects here</summary>
+
+For now.... go check out my pins, I'll update this later by thoughally explaining some cooler projects.
+
+</details>
 
 ### Writeups
 
-A writeup written by me is most likely just a dump of thought process.
+<details>
+
+<summary>A writeup written by me is most likely just a dump of thought process.</summary>
 
 #### CTFs
 
@@ -112,6 +120,8 @@ I swear I'm 100% qualified to be making writeups on other things:
 
 </details>
 
+</details>
+
 ## Where to Find Me
 
 <details>
@@ -119,6 +129,7 @@ I swear I'm 100% qualified to be making writeups on other things:
 <summary>Wow here's a section I have yet to complete but will do later</summary>
 
 <a href="https://github.com/vivian-dai/"><img src="./assets/github.svg" width="32"></a>
+<a href="https://devpost.com/viviandai"><img src="./assets/devpost.svg" width="32"></a>
 
 </details>
 
