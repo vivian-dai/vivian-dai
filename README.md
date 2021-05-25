@@ -1,4 +1,8 @@
-# About Me
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Hey+there!;My+name+is+Vivian+Dai)](https://git.io/typing-svg)
+
+</div>
 
 Hello! My name is Vivian Dai. I will say lots of seemingly out of context things like "☕ = 🍩" or "this quark has a strange flavor" but I swear I'm not insane and all these make sense :D
 
@@ -13,12 +17,6 @@ Visitors:
 ![visitors badge](https://visitor-badge.glitch.me/badge?page_id=https://github.com/vivian-dai)
 
 I'm watching 👀
-
-<sub>
-
-Visitor badge from [https://github.com/jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge)
-
-</sub>
 
 Have you heard of the [million monkey theorem](https://en.wikipedia.org/wiki/Infinite_monkey_theorem) before? If you have a million monkeys who each spend a million years typing at a typewriter, somewhere, eventually, collectively, the entire works of Shakespeare will be typed out. In one of Janet Tashjian's works (I think this is right), it mentions the works of Shakespeare will not be the only thing that gets typed out. Somewhere along the way, several other important works will be typed out as well. However, most of the things the monkeys type is still giberish. This theorem is an accurate representation of how I work. I am but a mindless monkey who types things until things work. 🐒
 
@@ -51,12 +49,6 @@ I definitely know what I'm doing
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivian-dai&count_private=true&include_all_commits=true&theme=tokyonight&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 Most of my projects are probably in either Java or Python. If you exclude that one repository containing my group's final comp sci project for school, Python is by far my most used language.
-
-<sub>
-
-Thank you to [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for the cards.
-
-</sub>
 
 ### Hackathons
 
@@ -112,6 +104,17 @@ I swear I'm 100% qualified to be making writeups on other things:
 
 </details>
 
+## Credits
+
+<details>
+
+<summary>If you want to know where all these readme widgets and cool stuff came from:</summary>
+
+* Header image from [https://github.com/DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+* Visitor badge from [https://github.com/jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge)
+* Top languages, Github stats, and Github repos from [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
 
 <!--
 **vivian-dai/vivian-dai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
