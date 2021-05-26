@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Hey+there!;My+name+is+Vivian+Dai)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&center=true&vCenter=true&lines=Hey+there!;My+name+is+Vivian+Dai!;Welcome%20to%20my%20Github%20page!)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,13 +16,15 @@ Visitors:
 
 I'm watching 👀
 
-Hey, I'm Vivian Dai. I will say lots of seemingly out of context things like "☕ = 🍩" or "this quark has a strange flavor" but I swear I'm not insane and all these make sense :D
+Hey, I'm Vivian Dai but if you're here, you're most likely a buddy of mine who decided to stalk my Github so I guess you already knew that. I will say lots of seemingly out of context things like "☕ = 🍩" or "this quark has a strange flavor" but I swear I'm not insane and all these make sense :D
 
 Let's talk about monkeys. Have you heard of the [million monkey theorem](https://en.wikipedia.org/wiki/Infinite_monkey_theorem) before? If you have a million monkeys who each spend a million years typing at a typewriter, somewhere, eventually, collectively, the entire works of Shakespeare will be typed out. In one of Janet Tashjian's works (I think this is right), it mentions the works of Shakespeare will not be the only thing that gets typed out. Somewhere along the way, several other important works will be typed out as well. However, most of the things the monkeys type is still giberish. This theorem is an accurate representation of how I work. I am but a mindless monkey who types things until things work. 🐒
 
+Ok now if for whatever reason you're not reading this for fun.... uh check it out! I have a sense of humor! That's a good asset to the team!
+
 </details>
 
-## Skills
+## Skills and Tools
 
 <details>
 
@@ -36,6 +38,7 @@ I definitely know what I'm doing
 <img src="./assets/css.svg" width="32">
 <img src="./assets/js.svg" width="32">
 <img src="./assets/git.svg" width="32">
+<img src="./assets/vscode.svg" width="32">
 
 </details>
 
@@ -110,8 +113,6 @@ I plan to do more CTFs and only include major ones later.
 
 I swear I'm 100% qualified to be making writeups on other things:
 
-[*Over the Wire Bandit*](https://overthewire.org/wargames/bandit/) is a nice beginner level Wargame. I'm probably mostly using the [writeup](https://www.notion.so/Over-the-Wire-Bandit-d532f721481b4c298be2cb7a4db65514) to figure out how to use other tools
-
 [CCC](https://cemc.uwaterloo.ca/contests/past_contests.html#ccc) is the closest I'm ever going to get to competitive programming. I'll add more questions later.
 
 [![CCC solutions](https://github-readme-stats.vercel.app/api/pin/?username=vivian-dai&repo=CCC-solutions&theme=tokyonight&show_owner=true)](https://github.com/vivian-dai/CCC-solutions)
@@ -126,10 +127,11 @@ I swear I'm 100% qualified to be making writeups on other things:
 
 <details>
 
-<summary>Wow here's a section I have yet to complete but will do later</summary>
+<summary>For the mega stalkers (and people who need to find me for legit reasons)</summary>
 
 <a href="https://github.com/vivian-dai/"><img src="./assets/github.svg" width="32"></a>
 <a href="https://devpost.com/viviandai"><img src="./assets/devpost.svg" width="32"></a>
+<a href="mailto:viviandai@protonmail.com"><img src="./assets/protonmail.svg" width="32"></a>
 
 </details>
 
