@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&center=true&vCenter=true&lines=Hey+there!;My+name+is+Vivian+Dai!;Welcome%20to%20my%20Github%20page!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bb9af7&center=true&vCenter=true&lines=Hey+there!;My+name+is+Vivian+Dai!;Welcome%20to%20my%20Github%20page!)](https://git.io/typing-svg)
 
 </div>
 
@@ -52,6 +52,7 @@ I definitely know what I'm doing
 
 [![User stats](https://github-readme-stats.vercel.app/api?username=vivian-dai&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivian-dai&count_private=true&include_all_commits=true&theme=tokyonight&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vivian-dai&theme=tokyonight)](https://git.io/streak-stats)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=vivian-dai&bg_color=1a1b26&color=73daca&line=7dcfff&point=bb9af7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -141,11 +142,13 @@ I swear I'm 100% qualified to be making writeups on other things:
 
 <summary>If you want to know where all these readme widgets and cool stuff came from:</summary>
 
+* Theme I use for all widgets: [Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
 * Header image from [https://github.com/DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
 * Visitor badge from [https://github.com/jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge)
 * Top languages, Github stats, and Github repos from [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 * Coding streak from [https://github.com/DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-* SVG icons from [https://github.com/simple-icons/simple-icons#cdn-usage](https://github.com/simple-icons/simple-icons#cdn-usage), I added a fill for colours
+* SVG icons from [https://github.com/simple-icons/simple-icons](https://github.com/simple-icons/simple-icons), I added a fill for colours
+* Contribution graph from [https://github.com/ashutosh00710/github-readme-activity-graph](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </details>
 
