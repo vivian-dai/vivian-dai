@@ -66,9 +66,9 @@ Most of my projects are probably in either Java or Python. Surprisingly enough, 
 
 I guess I'll only list the hackathons where we won stuff:
 
-[*YRHacks 2021*](https://yrhacks.devpost.com/): our team won the sustainabiity prize.
-
-[![YRHacks](https://github-readme-stats.vercel.app/api/pin/?username=KathleenX7&repo=YRHacks&theme=tokyonight&show_owner=true)](https://github.com/KathleenX7/YRHacks)
+|Repository|Description|
+|-|-|
+|[![YRHacks](https://github-readme-stats.vercel.app/api/pin/?username=KathleenX7&repo=YRHacks&theme=tokyonight&show_owner=true)](https://github.com/KathleenX7/YRHacks)|[*YRHacks 2021*](https://yrhacks.devpost.com/): our team won the sustainabiity prize.|
 
 </details>
 
@@ -96,13 +96,10 @@ For now.... go check out my pins, I'll update this later by thoughally explainin
 
 I plan to do more CTFs and only include major ones later.
 
-[*PicoCTF 2021*](https://picoctf.org/competitions/2021-spring.html): our team ranked 353<sup>rd</sup> globally and 29<sup>th</sup> in Canada
-
-[![PicoCTF 2021 writeup](https://github-readme-stats.vercel.app/api/pin/?username=vivian-dai&repo=picoCTF2021-Writeup&theme=tokyonight&show_owner=true)](https://vivian-dai.github.io/PicoCTF2021-Writeup/)
-
-[*Angstrom CTF 2021*](https://2021.angstromctf.com/): a 100% random CTF I attended. My team ranked 457<sup>th</sup>
-
-[![angstromCTF 2021 Writeup](https://github-readme-stats.vercel.app/api/pin/?username=vivian-dai&repo=angstromCTF-2021-Writeup&theme=tokyonight&show_owner=true)](https://github.com/vivian-dai/angstromCTF-2021-Writeup)
+|Repository|Description|
+|-|-|
+|[![PicoCTF 2021 writeup](https://github-readme-stats.vercel.app/api/pin/?username=vivian-dai&repo=picoCTF2021-Writeup&theme=tokyonight&show_owner=true)](https://vivian-dai.github.io/PicoCTF2021-Writeup/)|[*PicoCTF 2021*](https://picoctf.org/competitions/2021-spring.html): our team ranked 353<sup>rd</sup> globally and 29<sup>th</sup> in Canada|
+|[![angstromCTF 2021 Writeup](https://github-readme-stats.vercel.app/api/pin/?username=vivian-dai&repo=angstromCTF-2021-Writeup&theme=tokyonight&show_owner=true)](https://github.com/vivian-dai/angstromCTF-2021-Writeup)|[*Angstrom CTF 2021*](https://2021.angstromctf.com/): a 100% random CTF I attended. My team ranked 457<sup>th</sup>|
 
 </details>
 
@@ -114,13 +111,33 @@ I plan to do more CTFs and only include major ones later.
 
 I swear I'm 100% qualified to be making writeups on other things:
 
-[CCC](https://cemc.uwaterloo.ca/contests/past_contests.html#ccc) is the closest I'm ever going to get to competitive programming. I'll add more questions later.
+|Repository|Description|
+|-|-|
+|[![CCC solutions](https://github-readme-stats.vercel.app/api/pin/?username=vivian-dai&repo=CCC-solutions&theme=tokyonight&show_owner=true)](https://github.com/vivian-dai/CCC-solutions)|[CCC](https://cemc.uwaterloo.ca/contests/past_contests.html#ccc) is the closest I'm ever going to get to competitive programming. I'll add more questions later.|
 
-[![CCC solutions](https://github-readme-stats.vercel.app/api/pin/?username=vivian-dai&repo=CCC-solutions&theme=tokyonight&show_owner=true)](https://github.com/vivian-dai/CCC-solutions)
+</details>
 
 </details>
 
 </details>
+
+## Cool People
+
+<details>
+
+<summary>Giving shoutouts to some cool people</summary>
+
+People are put here in order of response time to my asking for consent to adding them here.
+
+|Cool Person|Description|
+|-|-|
+|[![EmeraldEntities](https://github.com/EmeraldEntities.png) EmeraldEntites](https://github.com/EmeraldEntities)|This guy taught me the basics of Github and the only person who will ever tolerate (and be willing to create) anything that's RGB cyclic. Also a fun arson buddy + mastermind to plan kidnappings with.|
+|[![beepboop271](https://github.com/beepboop271.png) beepboop271](https://github.com/beepboop271)|Taught me some Github tips and tricks like `.gitattributes` and suggested I should do something about my uh previously 50+ completely useless repos. Also taught me some CTF things which made me really disappointed in myself.|
+|[![sherwinchiu](https://github.com/sherwinchiu.png) sherwinchiu](https://github.com/sherwinchiu/)|Has an interesting dynamic with capacitors. Also has really cool project ideas which has resulted in me doing a bunch of projects with him. Throws great wisdom about stonks and other topics too.|
+|[![shari09](https://github.com/shari09.png) shari09](https://github.com/shari09)|Best senpai. Taught me how to teach. Also senpai is super charismatic (enough to have an effect coined after her) and is a great arson and kidnapping target (tell senpai to sleep). The most passionate adversary to me touching UI/UX.|
+|[![KathleenX7](https://github.com/KathleenX7.png) KathleenX7](https://github.com/KathleenX7)|My CP skills probably improved a lot due to her asking me questions (now is one of my go-to people to ask about CP questions if I ever do them). Someone I spam offer to do projects with (before heading off and completing the project on my own, whoops 😅). The only member of my go-to hackathon team who is willing to read code.|
+|[![cleibox](https://github.com/cleibox.png) cleibox](https://github.com/cleibox)|This kid's profile pictures are never normal. My go-to virus tester. Also favourite stalking target. This kid probably still thinks I'm a hacker. One of the members of my go-to hackathon team.|
+|[![xiaoqi987209](https://github.com/xiaoqi987209.png) xiaoqi987209](https://github.com/xiaoqi987209)|Aiya someone's username is a bully. One day I should ask what all those numbers mean. Says "water is dry" to spite me. Another member of my go-to hackathon team who has been getting through each hackathon without touching a single piece of code.|
 
 </details>
 
@@ -145,9 +162,9 @@ I swear I'm 100% qualified to be making writeups on other things:
 * Theme I use for all widgets: [Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
 * Header image from [https://github.com/DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
 * Visitor badge from [https://github.com/jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge)
+* SVG icons from [https://github.com/simple-icons/simple-icons](https://github.com/simple-icons/simple-icons), I added a fill for colours
 * Top languages, Github stats, and Github repos from [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 * Coding streak from [https://github.com/DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-* SVG icons from [https://github.com/simple-icons/simple-icons](https://github.com/simple-icons/simple-icons), I added a fill for colours
 * Contribution graph from [https://github.com/ashutosh00710/github-readme-activity-graph](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </details>
