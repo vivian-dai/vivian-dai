@@ -131,7 +131,7 @@ People are put here in order of response time to my asking for consent to adding
 
 |Cool Person|Description|
 |-|-|
-|[![EmeraldEntities](https://github.com/EmeraldEntities.png) EmeraldEntites](https://github.com/EmeraldEntities)|This guy taught me the basics of Github and the only person who will ever tolerate (and be willing to create) anything that's RGB cyclic. Also a fun arson buddy + mastermind to plan kidnappings with.|
+|[![EmeraldEntities](https://github.com/EmeraldEntities.png) EmeraldEntites](https://github.com/EmeraldEntities)|This guy taught me the basics of Github and is the only person who will ever tolerate (and be willing to create) anything that's RGB cyclic. Also a fun arson buddy + mastermind to plan kidnappings with.|
 |[![beepboop271](https://github.com/beepboop271.png) beepboop271](https://github.com/beepboop271)|Taught me some Github tips and tricks like `.gitattributes` and suggested I should do something about my uh previously 50+ completely useless repos. Also taught me some CTF things which made me really disappointed in myself.|
 |[![sherwinchiu](https://github.com/sherwinchiu.png) sherwinchiu](https://github.com/sherwinchiu/)|Has an interesting dynamic with capacitors. Also has really cool project ideas which has resulted in me doing a bunch of projects with him. Throws great wisdom about stonks and other topics too.|
 |[![shari09](https://github.com/shari09.png) shari09](https://github.com/shari09)|Best senpai. Taught me how to teach. Also senpai is super charismatic (enough to have an effect coined after her) and is a great arson and kidnapping target (tell senpai to sleep). The most passionate adversary to me touching UI/UX.|
@@ -162,7 +162,8 @@ People are put here in order of response time to my asking for consent to adding
 * Theme I use for all widgets: [Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
 * Header image from [https://github.com/DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
 * Visitor badge from [https://github.com/jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge)
-* SVG icons from [https://github.com/simple-icons/simple-icons](https://github.com/simple-icons/simple-icons), I added a fill for colours
+* SVG icons with more than one colour on it from [https://github.com/devicons/devicon](https://github.com/devicons/devicon)
+* other SVG icons from [https://github.com/simple-icons/simple-icons](https://github.com/simple-icons/simple-icons), I added a fill for colours
 * Top languages, Github stats, and Github repos from [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 * Coding streak from [https://github.com/DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 * Contribution graph from [https://github.com/ashutosh00710/github-readme-activity-graph](https://github.com/ashutosh00710/github-readme-activity-graph)
