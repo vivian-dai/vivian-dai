@@ -160,13 +160,13 @@ People are put here in order of response time to my asking for consent to adding
 <summary>If you want to know where all these readme widgets and cool stuff came from:</summary>
 
 * Theme I use for all widgets: [Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
-* Header image from [https://github.com/DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-* Visitor badge from [https://github.com/jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge)
-* SVG icons with more than one colour on it from [https://github.com/devicons/devicon](https://github.com/devicons/devicon)
-* other SVG icons from [https://github.com/simple-icons/simple-icons](https://github.com/simple-icons/simple-icons), I added a fill for colours
-* Top languages, Github stats, and Github repos from [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-* Coding streak from [https://github.com/DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-* Contribution graph from [https://github.com/ashutosh00710/github-readme-activity-graph](https://github.com/ashutosh00710/github-readme-activity-graph)
+* Header image from [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+* Visitor badge from [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge)
+* SVG icons with more than one colour on it from [devicons/devicon](https://github.com/devicons/devicon)
+* other SVG icons from [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons), I added a fill for colours
+* Top languages, Github stats, and Github repos from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+* Coding streak from [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+* Contribution graph from [ashutosh00710/github-readme-activity-graph](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </details>
 
