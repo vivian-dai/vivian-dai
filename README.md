@@ -19,6 +19,7 @@ Ok now if for whatever reason you're not reading this for fun.... uh check it ou
 
 <details>
 <summary>I'd like to hope I'm competent</summary>
+
 I definitely know what I'm doing  
 <img src="./assets/java.svg" width="32">
 <img src="./assets/python.svg" width="32">
