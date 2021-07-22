@@ -108,6 +108,15 @@ People are put here in order of response time to my asking for consent to adding
 <a href="mailto:viviandai@protonmail.com"><img src="./assets/protonmail.svg" width="32"></a>
 </details>
 
+## Recent Activity
+<details>
+<summary>Stalking 2.0</summary>
+
+### Github Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+</details>
+
 ## Credits
 <details>
 <summary>If you want to know where all these readme widgets and cool stuff came from:</summary>
