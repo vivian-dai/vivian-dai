@@ -114,6 +114,11 @@ People are put here in order of response time to my asking for consent to adding
 
 ### Github Activity
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#93](https://github.com/rishitsaiya/CTFlearn-Writeups/issues/93) in [rishitsaiya/CTFlearn-Writeups](https://github.com/rishitsaiya/CTFlearn-Writeups)
+2. 🗣 Commented on [#93](https://github.com/rishitsaiya/CTFlearn-Writeups/issues/93) in [rishitsaiya/CTFlearn-Writeups](https://github.com/rishitsaiya/CTFlearn-Writeups)
+3. 💪 Opened PR [#93](https://github.com/rishitsaiya/CTFlearn-Writeups/pull/93) in [rishitsaiya/CTFlearn-Writeups](https://github.com/rishitsaiya/CTFlearn-Writeups)
+4. 🗣 Commented on [#91](https://github.com/rishitsaiya/CTFlearn-Writeups/issues/91) in [rishitsaiya/CTFlearn-Writeups](https://github.com/rishitsaiya/CTFlearn-Writeups)
+5. 🎉 Merged PR [#3](https://github.com/AppliedCyberCTF/picoCTF-2019/pull/3) in [AppliedCyberCTF/picoCTF-2019](https://github.com/AppliedCyberCTF/picoCTF-2019)
 <!--END_SECTION:activity-->
 </details>
 
