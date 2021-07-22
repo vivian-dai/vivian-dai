@@ -114,11 +114,6 @@ People are put here in order of response time to my asking for consent to adding
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#93](https://github.com/rishitsaiya/CTFlearn-Writeups/issues/93) in [rishitsaiya/CTFlearn-Writeups](https://github.com/rishitsaiya/CTFlearn-Writeups)
-2. 🗣 Commented on [#93](https://github.com/rishitsaiya/CTFlearn-Writeups/issues/93) in [rishitsaiya/CTFlearn-Writeups](https://github.com/rishitsaiya/CTFlearn-Writeups)
-3. 💪 Opened PR [#93](https://github.com/rishitsaiya/CTFlearn-Writeups/pull/93) in [rishitsaiya/CTFlearn-Writeups](https://github.com/rishitsaiya/CTFlearn-Writeups)
-4. 🗣 Commented on [#91](https://github.com/rishitsaiya/CTFlearn-Writeups/issues/91) in [rishitsaiya/CTFlearn-Writeups](https://github.com/rishitsaiya/CTFlearn-Writeups)
-5. 🎉 Merged PR [#3](https://github.com/AppliedCyberCTF/picoCTF-2019/pull/3) in [AppliedCyberCTF/picoCTF-2019](https://github.com/AppliedCyberCTF/picoCTF-2019)
 <!--END_SECTION:activity-->
 </details>
 
@@ -134,6 +129,7 @@ People are put here in order of response time to my asking for consent to adding
 * Top languages, Github stats, and Github repos from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 * Coding streak from [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 * Contribution graph from [ashutosh00710/github-readme-activity-graph](https://github.com/ashutosh00710/github-readme-activity-graph)
+* Recent Github activity from [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 </details>
 
 <!--
