@@ -114,11 +114,11 @@ People are put here in order of response time to my asking for consent to adding
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#93](https://github.com/rishitsaiya/CTFlearn-Writeups/issues/93) in [rishitsaiya/CTFlearn-Writeups](https://github.com/rishitsaiya/CTFlearn-Writeups)
+1. ❗️ Closed issue [#2](https://github.com/KathleenX7/ULHacks2021-TASL/issues/2) in [KathleenX7/ULHacks2021-TASL](https://github.com/KathleenX7/ULHacks2021-TASL)
 2. 🗣 Commented on [#93](https://github.com/rishitsaiya/CTFlearn-Writeups/issues/93) in [rishitsaiya/CTFlearn-Writeups](https://github.com/rishitsaiya/CTFlearn-Writeups)
-3. 💪 Opened PR [#93](https://github.com/rishitsaiya/CTFlearn-Writeups/pull/93) in [rishitsaiya/CTFlearn-Writeups](https://github.com/rishitsaiya/CTFlearn-Writeups)
-4. 🗣 Commented on [#91](https://github.com/rishitsaiya/CTFlearn-Writeups/issues/91) in [rishitsaiya/CTFlearn-Writeups](https://github.com/rishitsaiya/CTFlearn-Writeups)
-5. 🎉 Merged PR [#3](https://github.com/AppliedCyberCTF/picoCTF-2019/pull/3) in [AppliedCyberCTF/picoCTF-2019](https://github.com/AppliedCyberCTF/picoCTF-2019)
+3. 🗣 Commented on [#93](https://github.com/rishitsaiya/CTFlearn-Writeups/issues/93) in [rishitsaiya/CTFlearn-Writeups](https://github.com/rishitsaiya/CTFlearn-Writeups)
+4. 💪 Opened PR [#93](https://github.com/rishitsaiya/CTFlearn-Writeups/pull/93) in [rishitsaiya/CTFlearn-Writeups](https://github.com/rishitsaiya/CTFlearn-Writeups)
+5. 🗣 Commented on [#91](https://github.com/rishitsaiya/CTFlearn-Writeups/issues/91) in [rishitsaiya/CTFlearn-Writeups](https://github.com/rishitsaiya/CTFlearn-Writeups)
 <!--END_SECTION:activity-->
 </details>
 
