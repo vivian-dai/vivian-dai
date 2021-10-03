@@ -106,6 +106,7 @@ People are put here in order of response time to my asking for consent to adding
 <a href="https://github.com/vivian-dai/"><img src="./assets/github.svg" width="32"></a>
 <a href="https://devpost.com/viviandai"><img src="./assets/devpost.svg" width="32"></a>
 <a href="mailto:viviandai@protonmail.com"><img src="./assets/protonmail.svg" width="32"></a>
+<a href="https://dev.to/viviandai"><img src="./assets/devto.svg" width="32"></a>
 </details>
 
 ## Recent Activity
