@@ -114,11 +114,11 @@ People are put here in order of response time to my asking for consent to adding
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/sherwinchiu/htn2021/pull/1) in [sherwinchiu/htn2021](https://github.com/sherwinchiu/htn2021)
-2. 💪 Opened PR [#1](https://github.com/sherwinchiu/htn2021/pull/1) in [sherwinchiu/htn2021](https://github.com/sherwinchiu/htn2021)
-3. 💪 Opened PR [#94](https://github.com/rishitsaiya/CTFlearn-Writeups/pull/94) in [rishitsaiya/CTFlearn-Writeups](https://github.com/rishitsaiya/CTFlearn-Writeups)
-4. ❗️ Closed issue [#2](https://github.com/KathleenX7/ULHacks2021-TASL/issues/2) in [KathleenX7/ULHacks2021-TASL](https://github.com/KathleenX7/ULHacks2021-TASL)
-5. 🗣 Commented on [#93](https://github.com/rishitsaiya/CTFlearn-Writeups/issues/93) in [rishitsaiya/CTFlearn-Writeups](https://github.com/rishitsaiya/CTFlearn-Writeups)
+1. 💪 Opened PR [#88](https://github.com/Ashutosh00710/github-readme-activity-graph/pull/88) in [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
+2. 💪 Opened PR [#7](https://github.com/kokonior/Python-Projects/pull/7) in [kokonior/Python-Projects](https://github.com/kokonior/Python-Projects)
+3. 💪 Opened PR [#82](https://github.com/DistroByte/ComfyBot/pull/82) in [DistroByte/ComfyBot](https://github.com/DistroByte/ComfyBot)
+4. 💪 Opened PR [#4](https://github.com/abhishek-dhnma/Vinent-Van-VsCode-theme/pull/4) in [abhishek-dhnma/Vinent-Van-VsCode-theme](https://github.com/abhishek-dhnma/Vinent-Van-VsCode-theme)
+5. ❌ Closed PR [#1](https://github.com/vivian-dai/Vinent-Van-VsCode-theme/pull/1) in [vivian-dai/Vinent-Van-VsCode-theme](https://github.com/vivian-dai/Vinent-Van-VsCode-theme)
 <!--END_SECTION:activity-->
 </details>
 
