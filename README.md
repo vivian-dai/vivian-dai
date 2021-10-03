@@ -115,11 +115,11 @@ People are put here in order of response time to my asking for consent to adding
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#88](https://github.com/Ashutosh00710/github-readme-activity-graph/pull/88) in [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
-2. 💪 Opened PR [#7](https://github.com/kokonior/Python-Projects/pull/7) in [kokonior/Python-Projects](https://github.com/kokonior/Python-Projects)
-3. 💪 Opened PR [#82](https://github.com/DistroByte/ComfyBot/pull/82) in [DistroByte/ComfyBot](https://github.com/DistroByte/ComfyBot)
-4. 💪 Opened PR [#4](https://github.com/abhishek-dhnma/Vinent-Van-VsCode-theme/pull/4) in [abhishek-dhnma/Vinent-Van-VsCode-theme](https://github.com/abhishek-dhnma/Vinent-Van-VsCode-theme)
-5. ❌ Closed PR [#1](https://github.com/vivian-dai/Vinent-Van-VsCode-theme/pull/1) in [vivian-dai/Vinent-Van-VsCode-theme](https://github.com/vivian-dai/Vinent-Van-VsCode-theme)
+1. 💪 Opened PR [#6](https://github.com/mad003/Sorting-Algos/pull/6) in [mad003/Sorting-Algos](https://github.com/mad003/Sorting-Algos)
+2. ❌ Closed PR [#1](https://github.com/vivian-dai/Sorting-Algos/pull/1) in [vivian-dai/Sorting-Algos](https://github.com/vivian-dai/Sorting-Algos)
+3. 💪 Opened PR [#1](https://github.com/vivian-dai/Sorting-Algos/pull/1) in [vivian-dai/Sorting-Algos](https://github.com/vivian-dai/Sorting-Algos)
+4. 💪 Opened PR [#25](https://github.com/kokonior/Python-Projects/pull/25) in [kokonior/Python-Projects](https://github.com/kokonior/Python-Projects)
+5. 🎉 Merged PR [#5](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/5) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
 <!--END_SECTION:activity-->
 </details>
 
