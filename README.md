@@ -130,7 +130,7 @@ People are put here in order of response time to my asking for consent to adding
 * Theme I use for all widgets: [Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
 * Header image from [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
 * Visitor badge from [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge)
-* SVG icons with more than one colour on it from [devicons/devicon](https://github.com/devicons/devicon)
+* SVG icons with more than one colour on it from either [devicons/devicon](https://github.com/devicons/devicon) or [VectorLogoZone](https://www.vectorlogo.zone/)
 * other SVG icons from [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons), I added a fill for colours
 * Top languages, Github stats, and Github repos from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 * Coding streak from [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
