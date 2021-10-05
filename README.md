@@ -115,11 +115,11 @@ People are put here in order of response time to my asking for consent to adding
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/6) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
-2. 💪 Opened PR [#6](https://github.com/mad003/Sorting-Algos/pull/6) in [mad003/Sorting-Algos](https://github.com/mad003/Sorting-Algos)
-3. ❌ Closed PR [#1](https://github.com/vivian-dai/Sorting-Algos/pull/1) in [vivian-dai/Sorting-Algos](https://github.com/vivian-dai/Sorting-Algos)
-4. 💪 Opened PR [#1](https://github.com/vivian-dai/Sorting-Algos/pull/1) in [vivian-dai/Sorting-Algos](https://github.com/vivian-dai/Sorting-Algos)
-5. 💪 Opened PR [#25](https://github.com/kokonior/Python-Projects/pull/25) in [kokonior/Python-Projects](https://github.com/kokonior/Python-Projects)
+1. 🎉 Merged PR [#8](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/8) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
+2. ❗️ Closed issue [#9](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/issues/9) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
+3. 🎉 Merged PR [#7](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/7) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
+4. 🎉 Merged PR [#2](https://github.com/rhhscs/rhhscs.github.io/pull/2) in [rhhscs/rhhscs.github.io](https://github.com/rhhscs/rhhscs.github.io)
+5. 🎉 Merged PR [#6](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/6) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
 <!--END_SECTION:activity-->
 </details>
 
