@@ -115,11 +115,11 @@ People are put here in order of response time to my asking for consent to adding
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/8) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
-2. ❗️ Closed issue [#9](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/issues/9) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
-3. 🎉 Merged PR [#7](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/7) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
-4. 🎉 Merged PR [#2](https://github.com/rhhscs/rhhscs.github.io/pull/2) in [rhhscs/rhhscs.github.io](https://github.com/rhhscs/rhhscs.github.io)
-5. 🎉 Merged PR [#6](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/6) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
+1. 🎉 Merged PR [#2](https://github.com/rhhsspyglass/spyglass/pull/2) in [rhhsspyglass/spyglass](https://github.com/rhhsspyglass/spyglass)
+2. 💪 Opened PR [#2](https://github.com/rhhsspyglass/spyglass/pull/2) in [rhhsspyglass/spyglass](https://github.com/rhhsspyglass/spyglass)
+3. 🎉 Merged PR [#8](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/8) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
+4. ❗️ Closed issue [#9](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/issues/9) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
+5. 🎉 Merged PR [#7](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/7) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
 <!--END_SECTION:activity-->
 </details>
 
