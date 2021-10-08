@@ -48,7 +48,7 @@ I guess I'll only list the hackathons where we won stuff:
 
 |Repository|Description|
 |-|-|
-|[![YRHacks](https://github-readme-stats.vercel.app/api/pin/?username=KathleenX7&repo=YRHacks&theme=tokyonight&show_owner=true)](https://github.com/KathleenX7/YRHacks)|[*YRHacks 2021*](https://yrhacks.devpost.com/): our team built a project showcasing the effects actions have the environment (and turtles) and won the sustainabiity prize.|
+|[![YRHacks](https://github-readme-stats.vercel.app/api/pin/?username=KathleenX7&repo=YRHacks&theme=tokyonight&show_owner=true)](https://github.com/KathleenX7/YRHacks)|[*YRHacks 2021*](https://yrhacks.devpost.com/): our team built a project showcasing the effects actions have the environment (and turtles) and won the sustainability prize.|
 </details>
 
 ### Projects
