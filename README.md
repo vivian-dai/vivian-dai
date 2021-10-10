@@ -36,10 +36,10 @@ I definitely know what I'm doing
 <div align="center">
 
 [![User stats](https://github-readme-stats.vercel.app/api?username=vivian-dai&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivian-dai&count_private=true&include_all_commits=true&theme=tokyonight&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vivian-dai&theme=tokyonight)](https://git.io/streak-stats)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivian-dai&count_private=true&include_all_commits=true&theme=tokyonight&layout=compact&langs_count=8&exclude_repo=Code-049)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vivian-dai&theme=tokyonight)](https://git.io/streak-stats)
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=vivian-dai&bg_color=1a1b26&color=73daca&line=7dcfff&point=bb9af7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
-I use a bunch of different languages but usually lean towards Python. A lot of things I've done also aren't in my own repositories so feel free to scrape Github and figure out what I've committed to that probably belongs to a friend of mine. Anyways the top languages does not look accurate at all but it looks cool so I'll keep it there.
+I use a bunch of different languages but usually lean towards Python. A lot of things I've done also aren't in my own repositories so feel free to scrape Github and figure out what I've committed to that probably belongs to a friend of mine.
 
 ### Hackathons
 <details>
