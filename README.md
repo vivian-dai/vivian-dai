@@ -115,11 +115,11 @@ People are put here in order of response time to my asking for consent to adding
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#40](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/issues/40) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
-2. 🎉 Merged PR [#39](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/39) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
-3. 🗣 Commented on [#38](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/issues/38) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
-4. 🎉 Merged PR [#36](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/36) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
-5. 🎉 Merged PR [#35](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/35) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
+1. 🎉 Merged PR [#37](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/37) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
+2. 🗣 Commented on [#42](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/issues/42) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
+3. 🗣 Commented on [#29](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/issues/29) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
+4. 🎉 Merged PR [#42](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/42) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
+5. ❗️ Closed issue [#43](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/issues/43) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
 <!--END_SECTION:activity-->
 </details>
 
