@@ -115,11 +115,11 @@ People are put here in order of response time to my asking for consent to adding
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#56](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/56) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
-2. 🎉 Merged PR [#55](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/55) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
-3. 🎉 Merged PR [#54](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/54) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
-4. 🎉 Merged PR [#53](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/53) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
-5. 🎉 Merged PR [#50](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/50) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
+1. 🎉 Merged PR [#58](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/58) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
+2. 🎉 Merged PR [#56](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/56) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
+3. 🎉 Merged PR [#55](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/55) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
+4. 🎉 Merged PR [#54](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/54) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
+5. 🎉 Merged PR [#53](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/53) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
 <!--END_SECTION:activity-->
 </details>
 
