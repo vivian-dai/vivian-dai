@@ -115,11 +115,11 @@ People are put here in order of response time to my asking for consent to adding
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#75](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/75) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
-2. 🎉 Merged PR [#74](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/74) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
-3. 🎉 Merged PR [#73](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/73) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
-4. 🎉 Merged PR [#72](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/72) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
-5. 🎉 Merged PR [#70](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/70) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
+1. ❌ Closed PR [#80](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/80) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
+2. 🗣 Commented on [#80](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/issues/80) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
+3. 🎉 Merged PR [#77](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/77) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
+4. 🎉 Merged PR [#79](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/79) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
+5. 🎉 Merged PR [#76](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/76) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
 <!--END_SECTION:activity-->
 </details>
 
