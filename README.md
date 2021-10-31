@@ -19,15 +19,28 @@ Ok now if for whatever reason you're not reading this for fun.... uh check it ou
 
 <details>
 <summary>I'd like to hope I'm competent</summary>
+Here are some stuff I've used
 
-I definitely know what I'm doing  
+### Languages
 <img src="./assets/java.svg" width="32">
 <img src="./assets/python.svg" width="32">
 <img src="./assets/html.svg" width="32">
 <img src="./assets/css.svg" width="32">
 <img src="./assets/js.svg" width="32">
+<img src="./assets/arduino.svg" width="32">
+<img src="./assets/ts.svg" width="32">
+
+### Frameworks, Libraries, and Similar
+<img src="./assets/jekyll.svg" width="32">
+<img src="./assets/nodejs.svg" width="32">
+<img src="./assets/numpy.svg" width="32">
+<img src="./assets/tf.svg" width="32">
+
+### Tools
 <img src="./assets/git.svg" width="32">
 <img src="./assets/vscode.svg" width="32">
+<img src="./assets/latex.svg" width="32">
+<img src="./assets/kali.svg" width="32">
 </details>
 
 ## Code
