@@ -128,11 +128,11 @@ People are put here in order of response time to my asking for consent to adding
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#107](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/107) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
-2. 🗣 Commented on [#107](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/issues/107) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
-3. 🎉 Merged PR [#106](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/106) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
-4. 🎉 Merged PR [#102](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/102) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
-5. 🎉 Merged PR [#105](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/105) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
+1. 🎉 Merged PR [#109](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/109) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
+2. 🎉 Merged PR [#108](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/108) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
+3. 🎉 Merged PR [#107](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/107) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
+4. 🗣 Commented on [#107](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/issues/107) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
+5. 🎉 Merged PR [#106](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/106) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
 <!--END_SECTION:activity-->
 </details>
 
