@@ -128,11 +128,11 @@ People are put here in order of response time to my asking for consent to adding
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#83](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/83) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
-2. ❗️ Closed issue [#10](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/issues/10) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
-3. 🎉 Merged PR [#109](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/109) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
-4. 🎉 Merged PR [#108](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/108) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
-5. 🎉 Merged PR [#107](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/107) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
+1. 🎉 Merged PR [#2](https://github.com/EMGirls/emgirls.github.io/pull/2) in [EMGirls/emgirls.github.io](https://github.com/EMGirls/emgirls.github.io)
+2. 💪 Opened PR [#2](https://github.com/EMGirls/emgirls.github.io/pull/2) in [EMGirls/emgirls.github.io](https://github.com/EMGirls/emgirls.github.io)
+3. 🎉 Merged PR [#1](https://github.com/EMGirls/emgirls.github.io/pull/1) in [EMGirls/emgirls.github.io](https://github.com/EMGirls/emgirls.github.io)
+4. 💪 Opened PR [#1](https://github.com/EMGirls/emgirls.github.io/pull/1) in [EMGirls/emgirls.github.io](https://github.com/EMGirls/emgirls.github.io)
+5. 🎉 Merged PR [#83](https://github.com/vivian-dai/Hacktoberfest-2021-Repos/pull/83) in [vivian-dai/Hacktoberfest-2021-Repos](https://github.com/vivian-dai/Hacktoberfest-2021-Repos)
 <!--END_SECTION:activity-->
 </details>
 
