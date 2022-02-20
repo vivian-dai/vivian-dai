@@ -129,11 +129,11 @@ People are put here in order of response time to my asking for consent to adding
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#96](https://github.com/rishitsaiya/CTFlearn-Writeups/pull/96) in [rishitsaiya/CTFlearn-Writeups](https://github.com/rishitsaiya/CTFlearn-Writeups)
-2. 🎉 Merged PR [#2](https://github.com/EMGirls/emgirls.github.io/pull/2) in [EMGirls/emgirls.github.io](https://github.com/EMGirls/emgirls.github.io)
-3. 💪 Opened PR [#2](https://github.com/EMGirls/emgirls.github.io/pull/2) in [EMGirls/emgirls.github.io](https://github.com/EMGirls/emgirls.github.io)
-4. 🎉 Merged PR [#1](https://github.com/EMGirls/emgirls.github.io/pull/1) in [EMGirls/emgirls.github.io](https://github.com/EMGirls/emgirls.github.io)
-5. 💪 Opened PR [#1](https://github.com/EMGirls/emgirls.github.io/pull/1) in [EMGirls/emgirls.github.io](https://github.com/EMGirls/emgirls.github.io)
+1. 💪 Opened PR [#127](https://github.com/ryo-ma/github-profile-trophy/pull/127) in [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
+2. 💪 Opened PR [#96](https://github.com/rishitsaiya/CTFlearn-Writeups/pull/96) in [rishitsaiya/CTFlearn-Writeups](https://github.com/rishitsaiya/CTFlearn-Writeups)
+3. 🎉 Merged PR [#2](https://github.com/EMGirls/emgirls.github.io/pull/2) in [EMGirls/emgirls.github.io](https://github.com/EMGirls/emgirls.github.io)
+4. 💪 Opened PR [#2](https://github.com/EMGirls/emgirls.github.io/pull/2) in [EMGirls/emgirls.github.io](https://github.com/EMGirls/emgirls.github.io)
+5. 🎉 Merged PR [#1](https://github.com/EMGirls/emgirls.github.io/pull/1) in [EMGirls/emgirls.github.io](https://github.com/EMGirls/emgirls.github.io)
 <!--END_SECTION:activity-->
 </details>
 
