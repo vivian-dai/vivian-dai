@@ -130,11 +130,11 @@ People are put here in order of response time to my asking for consent to adding
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/rhhscs/rhhscs.github.io/pull/4) in [rhhscs/rhhscs.github.io](https://github.com/rhhscs/rhhscs.github.io)
-2. 🎉 Merged PR [#3](https://github.com/rhhscs/rhhscs.github.io/pull/3) in [rhhscs/rhhscs.github.io](https://github.com/rhhscs/rhhscs.github.io)
-3. 💪 Opened PR [#127](https://github.com/ryo-ma/github-profile-trophy/pull/127) in [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
-4. 💪 Opened PR [#96](https://github.com/rishitsaiya/CTFlearn-Writeups/pull/96) in [rishitsaiya/CTFlearn-Writeups](https://github.com/rishitsaiya/CTFlearn-Writeups)
-5. 🎉 Merged PR [#1](https://github.com/EMGirls/emgirls.github.io/pull/1) in [EMGirls/emgirls.github.io](https://github.com/EMGirls/emgirls.github.io)
+1. 🎉 Merged PR [#1](https://github.com/yrhacks/yrhacks-bot/pull/1) in [yrhacks/yrhacks-bot](https://github.com/yrhacks/yrhacks-bot)
+2. 💪 Opened PR [#1](https://github.com/yrhacks/yrhacks-bot/pull/1) in [yrhacks/yrhacks-bot](https://github.com/yrhacks/yrhacks-bot)
+3. 🎉 Merged PR [#4](https://github.com/rhhscs/rhhscs.github.io/pull/4) in [rhhscs/rhhscs.github.io](https://github.com/rhhscs/rhhscs.github.io)
+4. 🎉 Merged PR [#3](https://github.com/rhhscs/rhhscs.github.io/pull/3) in [rhhscs/rhhscs.github.io](https://github.com/rhhscs/rhhscs.github.io)
+5. 💪 Opened PR [#127](https://github.com/ryo-ma/github-profile-trophy/pull/127) in [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
 <!--END_SECTION:activity-->
 </details>
 
