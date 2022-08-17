@@ -130,10 +130,10 @@ People are put here in order of response time to my asking for consent to adding
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/vivian-dai/EvilBot-2.0/pull/4) in [vivian-dai/EvilBot-2.0](https://github.com/vivian-dai/EvilBot-2.0)
-2. ❌ Closed PR [#10](https://github.com/vivian-dai/PicoCTF2021-Writeup/pull/10) in [vivian-dai/PicoCTF2021-Writeup](https://github.com/vivian-dai/PicoCTF2021-Writeup)
-3. 🎉 Merged PR [#1](https://github.com/sherwinchiu/tuesday/pull/1) in [sherwinchiu/tuesday](https://github.com/sherwinchiu/tuesday)
-4. 💪 Opened PR [#1](https://github.com/sherwinchiu/tuesday/pull/1) in [sherwinchiu/tuesday](https://github.com/sherwinchiu/tuesday)
+1. ❗️ Opened issue [#3](https://github.com/vivian-dai/SuperiorTimeSystem/issues/3) in [vivian-dai/SuperiorTimeSystem](https://github.com/vivian-dai/SuperiorTimeSystem)
+2. 🎉 Merged PR [#2](https://github.com/vivian-dai/SuperiorTimeSystem/pull/2) in [vivian-dai/SuperiorTimeSystem](https://github.com/vivian-dai/SuperiorTimeSystem)
+3. 💪 Opened PR [#2](https://github.com/vivian-dai/SuperiorTimeSystem/pull/2) in [vivian-dai/SuperiorTimeSystem](https://github.com/vivian-dai/SuperiorTimeSystem)
+4. 🎉 Merged PR [#4](https://github.com/vivian-dai/EvilBot-2.0/pull/4) in [vivian-dai/EvilBot-2.0](https://github.com/vivian-dai/EvilBot-2.0)
 5. 🎉 Merged PR [#3](https://github.com/vivian-dai/EvilBot-2.0/pull/3) in [vivian-dai/EvilBot-2.0](https://github.com/vivian-dai/EvilBot-2.0)
 <!--END_SECTION:activity-->
 </details>
