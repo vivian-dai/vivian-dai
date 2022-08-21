@@ -130,11 +130,11 @@ People are put here in order of response time to my asking for consent to adding
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/vivian-dai/SuperiorTimeSystem/issues/3) in [vivian-dai/SuperiorTimeSystem](https://github.com/vivian-dai/SuperiorTimeSystem)
-2. 🎉 Merged PR [#2](https://github.com/vivian-dai/SuperiorTimeSystem/pull/2) in [vivian-dai/SuperiorTimeSystem](https://github.com/vivian-dai/SuperiorTimeSystem)
-3. 💪 Opened PR [#2](https://github.com/vivian-dai/SuperiorTimeSystem/pull/2) in [vivian-dai/SuperiorTimeSystem](https://github.com/vivian-dai/SuperiorTimeSystem)
-4. 🎉 Merged PR [#4](https://github.com/vivian-dai/EvilBot-2.0/pull/4) in [vivian-dai/EvilBot-2.0](https://github.com/vivian-dai/EvilBot-2.0)
-5. 🎉 Merged PR [#3](https://github.com/vivian-dai/EvilBot-2.0/pull/3) in [vivian-dai/EvilBot-2.0](https://github.com/vivian-dai/EvilBot-2.0)
+1. 🎉 Merged PR [#1](https://github.com/BennyWu1210/HackThe6ix/pull/1) in [BennyWu1210/HackThe6ix](https://github.com/BennyWu1210/HackThe6ix)
+2. 💪 Opened PR [#1](https://github.com/BennyWu1210/HackThe6ix/pull/1) in [BennyWu1210/HackThe6ix](https://github.com/BennyWu1210/HackThe6ix)
+3. ❗️ Opened issue [#3](https://github.com/vivian-dai/SuperiorTimeSystem/issues/3) in [vivian-dai/SuperiorTimeSystem](https://github.com/vivian-dai/SuperiorTimeSystem)
+4. 🎉 Merged PR [#2](https://github.com/vivian-dai/SuperiorTimeSystem/pull/2) in [vivian-dai/SuperiorTimeSystem](https://github.com/vivian-dai/SuperiorTimeSystem)
+5. 💪 Opened PR [#2](https://github.com/vivian-dai/SuperiorTimeSystem/pull/2) in [vivian-dai/SuperiorTimeSystem](https://github.com/vivian-dai/SuperiorTimeSystem)
 <!--END_SECTION:activity-->
 </details>
 
