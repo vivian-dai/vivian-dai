@@ -136,6 +136,10 @@ People are put here in order of response time to my asking for consent to adding
 4. 💪 Opened PR [#96](https://github.com/rishitsaiya/CTFlearn-Writeups/pull/96) in [rishitsaiya/CTFlearn-Writeups](https://github.com/rishitsaiya/CTFlearn-Writeups)
 5. 🎉 Merged PR [#1](https://github.com/EMGirls/emgirls.github.io/pull/1) in [EMGirls/emgirls.github.io](https://github.com/EMGirls/emgirls.github.io)
 <!--END_SECTION:activity-->
+
+### Blog Updates
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 </details>
 
 ## Credits
@@ -152,6 +156,7 @@ People are put here in order of response time to my asking for consent to adding
 * Contribution graph from [ashutosh00710/github-readme-activity-graph](https://github.com/ashutosh00710/github-readme-activity-graph)
 * Recent Github activity from [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 * Github profile trophies from [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
+* Recent blog articles from [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
 </details>
 
 <!--
