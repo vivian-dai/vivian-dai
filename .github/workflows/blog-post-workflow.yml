@@ -15,4 +15,4 @@ jobs:
           max_post_count: "4"
           remove_duplicates: true
           feed_list: "https://dev.to/feed/viviandai"
-          template: "$count<a href='$url'>$title</a>$newline"
+          template: "$counter<a href='$url'>$title</a>$newline"
