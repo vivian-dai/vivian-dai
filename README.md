@@ -138,10 +138,10 @@ People are put here in order of response time to my asking for consent to adding
 <!--END_SECTION:activity-->
 
 ### Blog Updates
-<!-- BLOG-POST-LIST:START -->$count<a href='https://dev.to/viviandai/esoteric-sorting-algorithms-j4o'>Esoteric Sorting Algorithms</a>
-$count<a href='https://dev.to/viviandai/hello-world-emojicode-2egk'>Hello World: Emojicode</a>
-$count<a href='https://dev.to/viviandai/hello-world-stuck-439a'>Hello World: Stuck</a>
-$count<a href='https://dev.to/viviandai/installing-pygame-1188'>Installing Pygame</a>
+<!-- BLOG-POST-LIST:START -->1<a href='https://dev.to/viviandai/esoteric-sorting-algorithms-j4o'>Esoteric Sorting Algorithms</a>
+2<a href='https://dev.to/viviandai/hello-world-emojicode-2egk'>Hello World: Emojicode</a>
+3<a href='https://dev.to/viviandai/hello-world-stuck-439a'>Hello World: Stuck</a>
+4<a href='https://dev.to/viviandai/installing-pygame-1188'>Installing Pygame</a>
 <!-- BLOG-POST-LIST:END -->
 </details>
 
