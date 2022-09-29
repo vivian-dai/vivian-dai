@@ -130,11 +130,11 @@ People are put here in order of response time to my asking for consent to adding
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/rhhscs/rhhscs.github.io/pull/4) in [rhhscs/rhhscs.github.io](https://github.com/rhhscs/rhhscs.github.io)
-2. 🎉 Merged PR [#3](https://github.com/rhhscs/rhhscs.github.io/pull/3) in [rhhscs/rhhscs.github.io](https://github.com/rhhscs/rhhscs.github.io)
-3. 💪 Opened PR [#127](https://github.com/ryo-ma/github-profile-trophy/pull/127) in [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
-4. 💪 Opened PR [#96](https://github.com/rishitsaiya/CTFlearn-Writeups/pull/96) in [rishitsaiya/CTFlearn-Writeups](https://github.com/rishitsaiya/CTFlearn-Writeups)
-5. 🎉 Merged PR [#1](https://github.com/EMGirls/emgirls.github.io/pull/1) in [EMGirls/emgirls.github.io](https://github.com/EMGirls/emgirls.github.io)
+1. 🗣 Commented on [#110](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/issues/110) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
+2. 🎉 Merged PR [#111](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/pull/111) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
+3. 💪 Opened PR [#111](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/pull/111) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
+4. 🎉 Merged PR [#110](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/pull/110) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
+5. 🎉 Merged PR [#1](https://github.com/BennyWu1210/HackThe6ix/pull/1) in [BennyWu1210/HackThe6ix](https://github.com/BennyWu1210/HackThe6ix)
 <!--END_SECTION:activity-->
 
 ### Blog Updates
