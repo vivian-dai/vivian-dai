@@ -130,11 +130,11 @@ People are put here in order of response time to my asking for consent to adding
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#112](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/issues/112) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
-2. 🗣 Commented on [#110](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/issues/110) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
-3. 🎉 Merged PR [#111](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/pull/111) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
-4. 💪 Opened PR [#111](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/pull/111) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
-5. 🎉 Merged PR [#110](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/pull/110) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
+1. 💪 Opened PR [#253](https://github.com/6-CSE/HelloWorld/pull/253) in [6-CSE/HelloWorld](https://github.com/6-CSE/HelloWorld)
+2. 💪 Opened PR [#4](https://github.com/Bobliuuu/RacketResources/pull/4) in [Bobliuuu/RacketResources](https://github.com/Bobliuuu/RacketResources)
+3. 💪 Opened PR [#312](https://github.com/kokonior/HTML-Projects/pull/312) in [kokonior/HTML-Projects](https://github.com/kokonior/HTML-Projects)
+4. 💪 Opened PR [#57](https://github.com/Anuja2512/Answering_Machine/pull/57) in [Anuja2512/Answering_Machine](https://github.com/Anuja2512/Answering_Machine)
+5. ❗️ Reopened issue [#117](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/issues/117) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
 <!--END_SECTION:activity-->
 
 ### Blog Updates
