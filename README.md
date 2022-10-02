@@ -139,10 +139,10 @@ People are put here in order of response time to my asking for consent to adding
 
 ### Blog Updates
 <!-- BLOG-POST-LIST:START -->
-1. <a href='https://dev.to/viviandai/esoteric-sorting-algorithms-j4o'>Esoteric Sorting Algorithms</a>
-2. <a href='https://dev.to/viviandai/hello-world-emojicode-2egk'>Hello World: Emojicode</a>
-3. <a href='https://dev.to/viviandai/hello-world-stuck-439a'>Hello World: Stuck</a>
-4. <a href='https://dev.to/viviandai/installing-pygame-1188'>Installing Pygame</a><!-- BLOG-POST-LIST:END -->
+1. <a href='https://dev.to/viviandai/hacktoberfest-2022-resources-1of'>Hacktoberfest 2022: Resources</a>
+2. <a href='https://dev.to/viviandai/esoteric-sorting-algorithms-j4o'>Esoteric Sorting Algorithms</a>
+3. <a href='https://dev.to/viviandai/hello-world-emojicode-2egk'>Hello World: Emojicode</a>
+4. <a href='https://dev.to/viviandai/hello-world-stuck-439a'>Hello World: Stuck</a><!-- BLOG-POST-LIST:END -->
 </details>
 
 ## Credits
