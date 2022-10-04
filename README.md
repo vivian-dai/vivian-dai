@@ -130,11 +130,11 @@ People are put here in order of response time to my asking for consent to adding
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#142](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/pull/142) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
-2. 🎉 Merged PR [#143](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/pull/143) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
-3. 🗣 Commented on [#136](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/issues/136) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
-4. 🎉 Merged PR [#141](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/pull/141) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
-5. ❌ Closed PR [#101](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/pull/101) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
+1. 🗣 Commented on [#149](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/issues/149) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
+2. 🎉 Merged PR [#145](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/pull/145) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
+3. 🎉 Merged PR [#148](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/pull/148) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
+4. 🗣 Commented on [#149](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/issues/149) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
+5. ❌ Closed PR [#147](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/pull/147) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
 <!--END_SECTION:activity-->
 
 ### Blog Updates
