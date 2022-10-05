@@ -130,11 +130,11 @@ People are put here in order of response time to my asking for consent to adding
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#149](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/issues/149) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
-2. 🎉 Merged PR [#145](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/pull/145) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
-3. 🎉 Merged PR [#148](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/pull/148) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
-4. 🗣 Commented on [#149](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/issues/149) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
-5. ❌ Closed PR [#147](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/pull/147) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
+1. 🎉 Merged PR [#151](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/pull/151) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
+2. ❌ Closed PR [#149](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/pull/149) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
+3. 🎉 Merged PR [#150](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/pull/150) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
+4. 🗣 Commented on [#150](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/issues/150) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
+5. 🗣 Commented on [#619](https://github.com/rahuldkjain/github-profile-readme-generator/issues/619) in [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
 <!--END_SECTION:activity-->
 
 ### Blog Updates
