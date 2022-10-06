@@ -130,11 +130,11 @@ People are put here in order of response time to my asking for consent to adding
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#151](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/pull/151) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
-2. ❌ Closed PR [#149](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/pull/149) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
-3. 🎉 Merged PR [#150](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/pull/150) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
-4. 🗣 Commented on [#150](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/issues/150) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
-5. 🗣 Commented on [#619](https://github.com/rahuldkjain/github-profile-readme-generator/issues/619) in [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+1. 🗣 Commented on [#218](https://github.com/freeCodeCamp/Developer_Quiz_Site/issues/218) in [freeCodeCamp/Developer_Quiz_Site](https://github.com/freeCodeCamp/Developer_Quiz_Site)
+2. 💪 Opened PR [#218](https://github.com/freeCodeCamp/Developer_Quiz_Site/pull/218) in [freeCodeCamp/Developer_Quiz_Site](https://github.com/freeCodeCamp/Developer_Quiz_Site)
+3. ❗️ Opened issue [#1](https://github.com/Jayt257/Stone_Paper_Scissor/issues/1) in [Jayt257/Stone_Paper_Scissor](https://github.com/Jayt257/Stone_Paper_Scissor)
+4. 🗣 Commented on [#136](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/issues/136) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
+5. 🎉 Merged PR [#151](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/pull/151) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
 <!--END_SECTION:activity-->
 
 ### Blog Updates
