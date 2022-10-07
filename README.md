@@ -130,11 +130,11 @@ People are put here in order of response time to my asking for consent to adding
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#218](https://github.com/freeCodeCamp/Developer_Quiz_Site/issues/218) in [freeCodeCamp/Developer_Quiz_Site](https://github.com/freeCodeCamp/Developer_Quiz_Site)
-2. 💪 Opened PR [#218](https://github.com/freeCodeCamp/Developer_Quiz_Site/pull/218) in [freeCodeCamp/Developer_Quiz_Site](https://github.com/freeCodeCamp/Developer_Quiz_Site)
-3. ❗️ Opened issue [#1](https://github.com/Jayt257/Stone_Paper_Scissor/issues/1) in [Jayt257/Stone_Paper_Scissor](https://github.com/Jayt257/Stone_Paper_Scissor)
-4. 🗣 Commented on [#136](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/issues/136) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
-5. 🎉 Merged PR [#151](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/pull/151) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
+1. 🗣 Commented on [#4](https://github.com/Jayt257/Stone_Paper_Scissor/issues/4) in [Jayt257/Stone_Paper_Scissor](https://github.com/Jayt257/Stone_Paper_Scissor)
+2. 🗣 Commented on [#1](https://github.com/Jayt257/Stone_Paper_Scissor/issues/1) in [Jayt257/Stone_Paper_Scissor](https://github.com/Jayt257/Stone_Paper_Scissor)
+3. 💪 Opened PR [#4](https://github.com/Jayt257/Stone_Paper_Scissor/pull/4) in [Jayt257/Stone_Paper_Scissor](https://github.com/Jayt257/Stone_Paper_Scissor)
+4. 🗣 Commented on [#218](https://github.com/freeCodeCamp/Developer_Quiz_Site/issues/218) in [freeCodeCamp/Developer_Quiz_Site](https://github.com/freeCodeCamp/Developer_Quiz_Site)
+5. 💪 Opened PR [#218](https://github.com/freeCodeCamp/Developer_Quiz_Site/pull/218) in [freeCodeCamp/Developer_Quiz_Site](https://github.com/freeCodeCamp/Developer_Quiz_Site)
 <!--END_SECTION:activity-->
 
 ### Blog Updates
