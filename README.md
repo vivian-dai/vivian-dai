@@ -130,11 +130,11 @@ People are put here in order of response time to my asking for consent to adding
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/Jayt257/Stone_Paper_Scissor/issues/4) in [Jayt257/Stone_Paper_Scissor](https://github.com/Jayt257/Stone_Paper_Scissor)
-2. 🗣 Commented on [#1](https://github.com/Jayt257/Stone_Paper_Scissor/issues/1) in [Jayt257/Stone_Paper_Scissor](https://github.com/Jayt257/Stone_Paper_Scissor)
-3. 💪 Opened PR [#4](https://github.com/Jayt257/Stone_Paper_Scissor/pull/4) in [Jayt257/Stone_Paper_Scissor](https://github.com/Jayt257/Stone_Paper_Scissor)
-4. 🗣 Commented on [#218](https://github.com/freeCodeCamp/Developer_Quiz_Site/issues/218) in [freeCodeCamp/Developer_Quiz_Site](https://github.com/freeCodeCamp/Developer_Quiz_Site)
-5. 💪 Opened PR [#218](https://github.com/freeCodeCamp/Developer_Quiz_Site/pull/218) in [freeCodeCamp/Developer_Quiz_Site](https://github.com/freeCodeCamp/Developer_Quiz_Site)
+1. 🗣 Commented on [#52](https://github.com/ardianta/anime-for-dev/issues/52) in [ardianta/anime-for-dev](https://github.com/ardianta/anime-for-dev)
+2. 🗣 Commented on [#4](https://github.com/Jayt257/Stone_Paper_Scissor/issues/4) in [Jayt257/Stone_Paper_Scissor](https://github.com/Jayt257/Stone_Paper_Scissor)
+3. 🗣 Commented on [#4](https://github.com/Jayt257/Stone_Paper_Scissor/issues/4) in [Jayt257/Stone_Paper_Scissor](https://github.com/Jayt257/Stone_Paper_Scissor)
+4. 🗣 Commented on [#1](https://github.com/Jayt257/Stone_Paper_Scissor/issues/1) in [Jayt257/Stone_Paper_Scissor](https://github.com/Jayt257/Stone_Paper_Scissor)
+5. 💪 Opened PR [#4](https://github.com/Jayt257/Stone_Paper_Scissor/pull/4) in [Jayt257/Stone_Paper_Scissor](https://github.com/Jayt257/Stone_Paper_Scissor)
 <!--END_SECTION:activity-->
 
 ### Blog Updates
