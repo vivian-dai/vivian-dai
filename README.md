@@ -131,11 +131,11 @@ People are put here in order of response time to my asking for consent to adding
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#75](https://github.com/Anushka-codergirl/Java/pull/75) in [Anushka-codergirl/Java](https://github.com/Anushka-codergirl/Java)
-2. ❗️ Opened issue [#52](https://github.com/ShreyamMaity/student-offers/issues/52) in [ShreyamMaity/student-offers](https://github.com/ShreyamMaity/student-offers)
-3. 🗣 Commented on [#52](https://github.com/ardianta/anime-for-dev/issues/52) in [ardianta/anime-for-dev](https://github.com/ardianta/anime-for-dev)
-4. ❗️ Opened issue [#4](https://github.com/vishaaal/BookCase/issues/4) in [vishaaal/BookCase](https://github.com/vishaaal/BookCase)
-5. 💪 Opened PR [#69](https://github.com/Anushka-codergirl/Java/pull/69) in [Anushka-codergirl/Java](https://github.com/Anushka-codergirl/Java)
+1. 🎉 Merged PR [#156](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/pull/156) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
+2. 🎉 Merged PR [#155](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/pull/155) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
+3. 💪 Opened PR [#75](https://github.com/Anushka-codergirl/Java/pull/75) in [Anushka-codergirl/Java](https://github.com/Anushka-codergirl/Java)
+4. ❗️ Opened issue [#52](https://github.com/ShreyamMaity/student-offers/issues/52) in [ShreyamMaity/student-offers](https://github.com/ShreyamMaity/student-offers)
+5. 🗣 Commented on [#52](https://github.com/ardianta/anime-for-dev/issues/52) in [ardianta/anime-for-dev](https://github.com/ardianta/anime-for-dev)
 <!--END_SECTION:activity-->
 
 ### Blog Updates
