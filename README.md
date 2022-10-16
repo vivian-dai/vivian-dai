@@ -131,11 +131,11 @@ People are put here in order of response time to my asking for consent to adding
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#156](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/pull/156) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
-2. 🎉 Merged PR [#155](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/pull/155) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
-3. 💪 Opened PR [#75](https://github.com/Anushka-codergirl/Java/pull/75) in [Anushka-codergirl/Java](https://github.com/Anushka-codergirl/Java)
-4. ❗️ Opened issue [#52](https://github.com/ShreyamMaity/student-offers/issues/52) in [ShreyamMaity/student-offers](https://github.com/ShreyamMaity/student-offers)
-5. 🗣 Commented on [#52](https://github.com/ardianta/anime-for-dev/issues/52) in [ardianta/anime-for-dev](https://github.com/ardianta/anime-for-dev)
+1. 🎉 Merged PR [#1](https://github.com/Previouslynamedjeff/dubeTube/pull/1) in [Previouslynamedjeff/dubeTube](https://github.com/Previouslynamedjeff/dubeTube)
+2. 💪 Opened PR [#1](https://github.com/Previouslynamedjeff/dubeTube/pull/1) in [Previouslynamedjeff/dubeTube](https://github.com/Previouslynamedjeff/dubeTube)
+3. 🎉 Merged PR [#156](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/pull/156) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
+4. 🎉 Merged PR [#155](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/pull/155) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
+5. 💪 Opened PR [#75](https://github.com/Anushka-codergirl/Java/pull/75) in [Anushka-codergirl/Java](https://github.com/Anushka-codergirl/Java)
 <!--END_SECTION:activity-->
 
 ### Blog Updates
