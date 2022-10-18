@@ -131,11 +131,11 @@ People are put here in order of response time to my asking for consent to adding
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Previouslynamedjeff/dubeTube/pull/1) in [Previouslynamedjeff/dubeTube](https://github.com/Previouslynamedjeff/dubeTube)
-2. 💪 Opened PR [#1](https://github.com/Previouslynamedjeff/dubeTube/pull/1) in [Previouslynamedjeff/dubeTube](https://github.com/Previouslynamedjeff/dubeTube)
-3. 🎉 Merged PR [#156](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/pull/156) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
-4. 🎉 Merged PR [#155](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/pull/155) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
-5. 💪 Opened PR [#75](https://github.com/Anushka-codergirl/Java/pull/75) in [Anushka-codergirl/Java](https://github.com/Anushka-codergirl/Java)
+1. 🎉 Merged PR [#160](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/pull/160) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
+2. 🗣 Commented on [#161](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/issues/161) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
+3. 🗣 Commented on [#159](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/issues/159) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
+4. 🎉 Merged PR [#1](https://github.com/Previouslynamedjeff/dubeTube/pull/1) in [Previouslynamedjeff/dubeTube](https://github.com/Previouslynamedjeff/dubeTube)
+5. 💪 Opened PR [#1](https://github.com/Previouslynamedjeff/dubeTube/pull/1) in [Previouslynamedjeff/dubeTube](https://github.com/Previouslynamedjeff/dubeTube)
 <!--END_SECTION:activity-->
 
 ### Blog Updates
