@@ -131,11 +131,11 @@ People are put here in order of response time to my asking for consent to adding
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/vivian-dai/Medusa-Hackathon-2022/pull/4) in [vivian-dai/Medusa-Hackathon-2022](https://github.com/vivian-dai/Medusa-Hackathon-2022)
-2. 💪 Opened PR [#4](https://github.com/vivian-dai/Medusa-Hackathon-2022/pull/4) in [vivian-dai/Medusa-Hackathon-2022](https://github.com/vivian-dai/Medusa-Hackathon-2022)
-3. 🎉 Merged PR [#3](https://github.com/vivian-dai/Medusa-Hackathon-2022/pull/3) in [vivian-dai/Medusa-Hackathon-2022](https://github.com/vivian-dai/Medusa-Hackathon-2022)
-4. 💪 Opened PR [#3](https://github.com/vivian-dai/Medusa-Hackathon-2022/pull/3) in [vivian-dai/Medusa-Hackathon-2022](https://github.com/vivian-dai/Medusa-Hackathon-2022)
-5. 🎉 Merged PR [#160](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/pull/160) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
+1. ❌ Closed PR [#159](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/pull/159) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
+2. ❌ Closed PR [#161](https://github.com/vivian-dai/Hacktoberfest-2022-Repos/pull/161) in [vivian-dai/Hacktoberfest-2022-Repos](https://github.com/vivian-dai/Hacktoberfest-2022-Repos)
+3. 🎉 Merged PR [#4](https://github.com/vivian-dai/Medusa-Hackathon-2022/pull/4) in [vivian-dai/Medusa-Hackathon-2022](https://github.com/vivian-dai/Medusa-Hackathon-2022)
+4. 💪 Opened PR [#4](https://github.com/vivian-dai/Medusa-Hackathon-2022/pull/4) in [vivian-dai/Medusa-Hackathon-2022](https://github.com/vivian-dai/Medusa-Hackathon-2022)
+5. 🎉 Merged PR [#3](https://github.com/vivian-dai/Medusa-Hackathon-2022/pull/3) in [vivian-dai/Medusa-Hackathon-2022](https://github.com/vivian-dai/Medusa-Hackathon-2022)
 <!--END_SECTION:activity-->
 
 ### Blog Updates
