@@ -131,11 +131,11 @@ People are put here in order of response time to my asking for consent to adding
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Electrium-Mobility/electrium-website/pull/1) in [Electrium-Mobility/electrium-website](https://github.com/Electrium-Mobility/electrium-website)
-2. 💪 Opened PR [#1](https://github.com/Electrium-Mobility/electrium-website/pull/1) in [Electrium-Mobility/electrium-website](https://github.com/Electrium-Mobility/electrium-website)
-3. ❌ Closed PR [#15](https://github.com/vivian-dai/PicoCTF2021-Writeup/pull/15) in [vivian-dai/PicoCTF2021-Writeup](https://github.com/vivian-dai/PicoCTF2021-Writeup)
-4. 🗣 Commented on [#15](https://github.com/vivian-dai/PicoCTF2021-Writeup/issues/15) in [vivian-dai/PicoCTF2021-Writeup](https://github.com/vivian-dai/PicoCTF2021-Writeup)
-5. 🎉 Merged PR [#1](https://github.com/Electrium-Mobility/electrium-webdev/pull/1) in [Electrium-Mobility/electrium-webdev](https://github.com/Electrium-Mobility/electrium-webdev)
+1. 🎉 Merged PR [#2](https://github.com/Electrium-Mobility/electrium-website/pull/2) in [Electrium-Mobility/electrium-website](https://github.com/Electrium-Mobility/electrium-website)
+2. 🎉 Merged PR [#1](https://github.com/Electrium-Mobility/electrium-website/pull/1) in [Electrium-Mobility/electrium-website](https://github.com/Electrium-Mobility/electrium-website)
+3. 💪 Opened PR [#1](https://github.com/Electrium-Mobility/electrium-website/pull/1) in [Electrium-Mobility/electrium-website](https://github.com/Electrium-Mobility/electrium-website)
+4. ❌ Closed PR [#15](https://github.com/vivian-dai/PicoCTF2021-Writeup/pull/15) in [vivian-dai/PicoCTF2021-Writeup](https://github.com/vivian-dai/PicoCTF2021-Writeup)
+5. 🗣 Commented on [#15](https://github.com/vivian-dai/PicoCTF2021-Writeup/issues/15) in [vivian-dai/PicoCTF2021-Writeup](https://github.com/vivian-dai/PicoCTF2021-Writeup)
 <!--END_SECTION:activity-->
 
 ### Blog Updates
