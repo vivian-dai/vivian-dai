@@ -131,11 +131,11 @@ People are put here in order of response time to my asking for consent to adding
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/vivian-dai/CupOfIce/pull/1) in [vivian-dai/CupOfIce](https://github.com/vivian-dai/CupOfIce)
-2. 💪 Opened PR [#1](https://github.com/vivian-dai/CupOfIce/pull/1) in [vivian-dai/CupOfIce](https://github.com/vivian-dai/CupOfIce)
-3. ❌ Closed PR [#1](https://github.com/Electrium-Mobility/orientation-firmware-rc-car/pull/1) in [Electrium-Mobility/orientation-firmware-rc-car](https://github.com/Electrium-Mobility/orientation-firmware-rc-car)
-4. 💪 Opened PR [#1](https://github.com/Electrium-Mobility/orientation-firmware-rc-car/pull/1) in [Electrium-Mobility/orientation-firmware-rc-car](https://github.com/Electrium-Mobility/orientation-firmware-rc-car)
-5. 🎉 Merged PR [#2](https://github.com/prestonty/electrium-joinup/pull/2) in [prestonty/electrium-joinup](https://github.com/prestonty/electrium-joinup)
+1. ❗️ Opened issue [#8](https://github.com/Electrium-Mobility/electrium-website-remake/issues/8) in [Electrium-Mobility/electrium-website-remake](https://github.com/Electrium-Mobility/electrium-website-remake)
+2. ❗️ Opened issue [#7](https://github.com/Electrium-Mobility/electrium-website-remake/issues/7) in [Electrium-Mobility/electrium-website-remake](https://github.com/Electrium-Mobility/electrium-website-remake)
+3. ❗️ Opened issue [#6](https://github.com/Electrium-Mobility/electrium-website-remake/issues/6) in [Electrium-Mobility/electrium-website-remake](https://github.com/Electrium-Mobility/electrium-website-remake)
+4. ❗️ Opened issue [#5](https://github.com/Electrium-Mobility/electrium-website-remake/issues/5) in [Electrium-Mobility/electrium-website-remake](https://github.com/Electrium-Mobility/electrium-website-remake)
+5. ❗️ Opened issue [#4](https://github.com/Electrium-Mobility/electrium-website-remake/issues/4) in [Electrium-Mobility/electrium-website-remake](https://github.com/Electrium-Mobility/electrium-website-remake)
 <!--END_SECTION:activity-->
 
 ### Blog Updates
