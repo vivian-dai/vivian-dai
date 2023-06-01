@@ -131,11 +131,11 @@ People are put here in order of response time to my asking for consent to adding
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com/Electrium-Mobility/electrium-website-remake/issues/8) in [Electrium-Mobility/electrium-website-remake](https://github.com/Electrium-Mobility/electrium-website-remake)
-2. ❗️ Opened issue [#7](https://github.com/Electrium-Mobility/electrium-website-remake/issues/7) in [Electrium-Mobility/electrium-website-remake](https://github.com/Electrium-Mobility/electrium-website-remake)
-3. ❗️ Opened issue [#6](https://github.com/Electrium-Mobility/electrium-website-remake/issues/6) in [Electrium-Mobility/electrium-website-remake](https://github.com/Electrium-Mobility/electrium-website-remake)
-4. ❗️ Opened issue [#5](https://github.com/Electrium-Mobility/electrium-website-remake/issues/5) in [Electrium-Mobility/electrium-website-remake](https://github.com/Electrium-Mobility/electrium-website-remake)
-5. ❗️ Opened issue [#4](https://github.com/Electrium-Mobility/electrium-website-remake/issues/4) in [Electrium-Mobility/electrium-website-remake](https://github.com/Electrium-Mobility/electrium-website-remake)
+1. ❗ Opened issue [#8](https://github.com/Electrium-Mobility/electrium-website-remake/issues/8) in [Electrium-Mobility/electrium-website-remake](https://github.com/Electrium-Mobility/electrium-website-remake)
+2. ❗ Opened issue [#7](https://github.com/Electrium-Mobility/electrium-website-remake/issues/7) in [Electrium-Mobility/electrium-website-remake](https://github.com/Electrium-Mobility/electrium-website-remake)
+3. ❗ Opened issue [#6](https://github.com/Electrium-Mobility/electrium-website-remake/issues/6) in [Electrium-Mobility/electrium-website-remake](https://github.com/Electrium-Mobility/electrium-website-remake)
+4. ❗ Opened issue [#5](https://github.com/Electrium-Mobility/electrium-website-remake/issues/5) in [Electrium-Mobility/electrium-website-remake](https://github.com/Electrium-Mobility/electrium-website-remake)
+5. ❗ Opened issue [#4](https://github.com/Electrium-Mobility/electrium-website-remake/issues/4) in [Electrium-Mobility/electrium-website-remake](https://github.com/Electrium-Mobility/electrium-website-remake)
 <!--END_SECTION:activity-->
 
 ### Blog Updates
