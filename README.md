@@ -131,11 +131,11 @@ People are put here in order of response time to my asking for consent to adding
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8](https://github.com/Electrium-Mobility/electrium-website/issues/8) in [Electrium-Mobility/electrium-website](https://github.com/Electrium-Mobility/electrium-website)
-2. ❗ Opened issue [#7](https://github.com/Electrium-Mobility/electrium-website/issues/7) in [Electrium-Mobility/electrium-website](https://github.com/Electrium-Mobility/electrium-website)
-3. 🗣 Commented on [#4](https://github.com/Electrium-Mobility/electrium-website/issues/4) in [Electrium-Mobility/electrium-website](https://github.com/Electrium-Mobility/electrium-website)
-4. ❗ Opened issue [#8](https://github.com/Electrium-Mobility/electrium-website-remake/issues/8) in [Electrium-Mobility/electrium-website-remake](https://github.com/Electrium-Mobility/electrium-website-remake)
-5. ❗ Opened issue [#7](https://github.com/Electrium-Mobility/electrium-website-remake/issues/7) in [Electrium-Mobility/electrium-website-remake](https://github.com/Electrium-Mobility/electrium-website-remake)
+1. 🎉 Merged PR [#10](https://github.com/Electrium-Mobility/electrium-website/pull/10) in [Electrium-Mobility/electrium-website](https://github.com/Electrium-Mobility/electrium-website)
+2. ❗ Opened issue [#9](https://github.com/Electrium-Mobility/electrium-website/issues/9) in [Electrium-Mobility/electrium-website](https://github.com/Electrium-Mobility/electrium-website)
+3. ❗ Opened issue [#8](https://github.com/Electrium-Mobility/electrium-website/issues/8) in [Electrium-Mobility/electrium-website](https://github.com/Electrium-Mobility/electrium-website)
+4. ❗ Opened issue [#7](https://github.com/Electrium-Mobility/electrium-website/issues/7) in [Electrium-Mobility/electrium-website](https://github.com/Electrium-Mobility/electrium-website)
+5. 🗣 Commented on [#4](https://github.com/Electrium-Mobility/electrium-website/issues/4) in [Electrium-Mobility/electrium-website](https://github.com/Electrium-Mobility/electrium-website)
 <!--END_SECTION:activity-->
 
 ### Blog Updates
