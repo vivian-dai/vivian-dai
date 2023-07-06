@@ -131,11 +131,11 @@ People are put here in order of response time to my asking for consent to adding
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#27](https://github.com/Electrium-Mobility/electrium-website/issues/27) in [Electrium-Mobility/electrium-website](https://github.com/Electrium-Mobility/electrium-website)
-2. ❗ Opened issue [#26](https://github.com/Electrium-Mobility/electrium-website/issues/26) in [Electrium-Mobility/electrium-website](https://github.com/Electrium-Mobility/electrium-website)
-3. 🎉 Merged PR [#25](https://github.com/Electrium-Mobility/electrium-website/pull/25) in [Electrium-Mobility/electrium-website](https://github.com/Electrium-Mobility/electrium-website)
-4. 🗣 Commented on [#18](https://github.com/Electrium-Mobility/electrium-website/issues/18) in [Electrium-Mobility/electrium-website](https://github.com/Electrium-Mobility/electrium-website)
-5. 🗣 Commented on [#23](https://github.com/Electrium-Mobility/electrium-website/issues/23) in [Electrium-Mobility/electrium-website](https://github.com/Electrium-Mobility/electrium-website)
+1. ❗ Opened issue [#10](https://github.com/Electrium-Mobility/electrium-website-remake/issues/10) in [Electrium-Mobility/electrium-website-remake](https://github.com/Electrium-Mobility/electrium-website-remake)
+2. ❗ Opened issue [#9](https://github.com/Electrium-Mobility/electrium-website-remake/issues/9) in [Electrium-Mobility/electrium-website-remake](https://github.com/Electrium-Mobility/electrium-website-remake)
+3. ❗ Opened issue [#27](https://github.com/Electrium-Mobility/electrium-website/issues/27) in [Electrium-Mobility/electrium-website](https://github.com/Electrium-Mobility/electrium-website)
+4. ❗ Opened issue [#26](https://github.com/Electrium-Mobility/electrium-website/issues/26) in [Electrium-Mobility/electrium-website](https://github.com/Electrium-Mobility/electrium-website)
+5. 🎉 Merged PR [#25](https://github.com/Electrium-Mobility/electrium-website/pull/25) in [Electrium-Mobility/electrium-website](https://github.com/Electrium-Mobility/electrium-website)
 <!--END_SECTION:activity-->
 
 ### Blog Updates
