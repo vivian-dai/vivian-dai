@@ -8,8 +8,8 @@
 <summary>If you're looking at this because of an application... please don't read this. If you're a friend stalking my Github, you're free to read this lol:</summary>
 
 Visitors:  
-![visitors badge](https://visitor-badge.glitch.me/badge?page_id=https://github.com/vivian-dai)  
-I'm watching 👀  
+<!-- ![visitors badge](https://visitor-badge.glitch.me/badge?page_id=https://github.com/vivian-dai)  
+I'm watching 👀   -->
 Hey, I'm Vivian Dai but if you're here, you're most likely a buddy of mine who decided to stalk my Github so I guess you already knew that. I will say lots of seemingly out of context things like "☕ = 🍩" or "this quark has a strange flavor" but I swear I'm not insane and all these make sense :D  
 Let's talk about monkeys. Have you heard of the [million monkey theorem](https://en.wikipedia.org/wiki/Infinite_monkey_theorem) before? If you have a million monkeys who each spend a million years typing at a typewriter, somewhere, eventually, collectively, the entire works of Shakespeare will be typed out. In one of Janet Tashjian's works (I think this is right), it mentions the works of Shakespeare will not be the only thing that gets typed out. Somewhere along the way, several other important works will be typed out as well. However, most of the things the monkeys type is still giberish. This theorem is an accurate representation of how I work. I am but a mindless monkey who types things until things work. 🐒  
 Ok now if for whatever reason you're not reading this for fun.... uh check it out! I have a sense of humor! That's a good asset to the team!  
@@ -29,18 +29,21 @@ Here are some stuff I've used
 <img src="./assets/js.svg" width="32">
 <img src="./assets/arduino.svg" width="32">
 <img src="./assets/ts.svg" width="32">
+<img src="./assets/kotlin.svg" width="32">
 
 ### Frameworks, Libraries, and Similar
 <img src="./assets/jekyll.svg" width="32">
 <img src="./assets/nodejs.svg" width="32">
 <img src="./assets/numpy.svg" width="32">
 <img src="./assets/tf.svg" width="32">
+<img src="./assets/flask.svg" width="32">
 
 ### Tools
 <img src="./assets/git.svg" width="32">
 <img src="./assets/vscode.svg" width="32">
 <img src="./assets/latex.svg" width="32">
 <img src="./assets/kali.svg" width="32">
+<img src="./assets/androidstudio.svg" width="32">
 </details>
 
 ## Code
@@ -63,7 +66,8 @@ I guess I'll only list the hackathons where we won stuff:
 
 |Repository|Description|
 |-|-|
-|[![YRHacks](https://github-readme-stats.vercel.app/api/pin/?username=KathleenX7&repo=YRHacks&theme=tokyonight&show_owner=true)](https://github.com/KathleenX7/YRHacks)|[*YRHacks 2021*](https://yrhacks.devpost.com/): our team built a project showcasing the effects actions have the environment (and turtles) and won the sustainability prize.|
+|[![Save the Turtles](https://github-readme-stats.vercel.app/api/pin/?username=KathleenX7&repo=YRHacks&theme=tokyonight&show_owner=true)](https://devpost.com/software/ded)|[*YRHacks 2021*](https://yrhacks.devpost.com/): our team built a project showcasing the effects actions have the environment (and turtles) and won the sustainability prize.|
+|[![bill-in-bytes](https://github-readme-stats.vercel.app/api/pin/?username=Ri-Hong&repo=bill-in-bytes&theme=tokyonight&show_owner=true)](https://devpost.com/software/bill-in-bytes)|[*GryphHacks 2023*](https://gryphhacks-2023.devpost.com/) our team built a mobile app using React Native expo and got the best UI/UX prize.|
 </details>
 
 ### Projects
@@ -106,7 +110,7 @@ I swear I'm 100% qualified to be making writeups on other things:
 People are put here in order of response time to my asking for consent to adding them here.  
 |Cool Person|Description|
 |-|-|
-|[![EmeraldEntities](https://github.com/EmeraldEntities.png) EmeraldEntites](https://github.com/EmeraldEntities)|This guy taught me the basics of Github and is the only person who will ever tolerate (and be willing to create) anything that's RGB cyclic. Also a fun arson buddy + mastermind to plan kidnappings with.|
+|[![wang-joseph](https://github.com/wang-joseph.png) wang-joseph](https://github.com/wang-joseph)|This guy taught me the basics of Github and is the only person who will ever tolerate (and be willing to create) anything that's RGB cyclic. Also a fun arson buddy + mastermind to plan kidnappings with.|
 |[![beepboop271](https://github.com/beepboop271.png) beepboop271](https://github.com/beepboop271)|Taught me some Github tips and tricks like `.gitattributes` and suggested I should do something about my uh previously 50+ completely useless repos. Also taught me some CTF things which made me really disappointed in myself.|
 |[![sherwinchiu](https://github.com/sherwinchiu.png) sherwinchiu](https://github.com/sherwinchiu/)|Has an interesting dynamic with capacitors. Also has really cool project ideas which has resulted in me doing a bunch of projects with him. Throws great wisdom about stonks and other topics too.|
 |[![shari09](https://github.com/shari09.png) shari09](https://github.com/shari09)|Best senpai. Taught me how to teach. Also senpai is super charismatic (enough to have an effect coined after her) and is a great arson and kidnapping target (tell senpai to sleep). The most passionate adversary to me touching UI/UX.|
@@ -152,7 +156,7 @@ People are put here in order of response time to my asking for consent to adding
 
 * Theme I use for all widgets: [Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
 * Header image from [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-* Visitor badge from [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge)
+* Visitor badge from [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge) (no longer works :( unfortunate)
 * SVG icons with more than one colour on it from either [devicons/devicon](https://github.com/devicons/devicon) or [VectorLogoZone](https://www.vectorlogo.zone/)
 * other SVG icons from [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons), I added a fill for colours
 * Top languages, Github stats, and Github repos from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
