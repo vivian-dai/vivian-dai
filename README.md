@@ -135,11 +135,11 @@ People are put here in order of response time to my asking for consent to adding
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/vivian-dai/EvilBot-2.0/pull/6) in [vivian-dai/EvilBot-2.0](https://github.com/vivian-dai/EvilBot-2.0)
-2. ❗ Opened issue [#10](https://github.com/Electrium-Mobility/electrium-website-remake/issues/10) in [Electrium-Mobility/electrium-website-remake](https://github.com/Electrium-Mobility/electrium-website-remake)
-3. ❗ Opened issue [#9](https://github.com/Electrium-Mobility/electrium-website-remake/issues/9) in [Electrium-Mobility/electrium-website-remake](https://github.com/Electrium-Mobility/electrium-website-remake)
-4. ❗ Opened issue [#27](https://github.com/Electrium-Mobility/electrium-website/issues/27) in [Electrium-Mobility/electrium-website](https://github.com/Electrium-Mobility/electrium-website)
-5. ❗ Opened issue [#26](https://github.com/Electrium-Mobility/electrium-website/issues/26) in [Electrium-Mobility/electrium-website](https://github.com/Electrium-Mobility/electrium-website)
+1. 🔒 Closed issue [#1](https://github.com/Electrium-Mobility/electrium-website-remake/issues/1) in [Electrium-Mobility/electrium-website-remake](https://github.com/Electrium-Mobility/electrium-website-remake)
+2. 🔒 Closed issue [#4](https://github.com/Electrium-Mobility/electrium-website-remake/issues/4) in [Electrium-Mobility/electrium-website-remake](https://github.com/Electrium-Mobility/electrium-website-remake)
+3. 🎉 Merged PR [#6](https://github.com/vivian-dai/EvilBot-2.0/pull/6) in [vivian-dai/EvilBot-2.0](https://github.com/vivian-dai/EvilBot-2.0)
+4. ❗ Opened issue [#10](https://github.com/Electrium-Mobility/electrium-website-remake/issues/10) in [Electrium-Mobility/electrium-website-remake](https://github.com/Electrium-Mobility/electrium-website-remake)
+5. ❗ Opened issue [#9](https://github.com/Electrium-Mobility/electrium-website-remake/issues/9) in [Electrium-Mobility/electrium-website-remake](https://github.com/Electrium-Mobility/electrium-website-remake)
 <!--END_SECTION:activity-->
 
 ### Blog Updates
