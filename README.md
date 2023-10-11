@@ -135,11 +135,11 @@ People are put here in order of response time to my asking for consent to adding
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#767](https://github.com/freeCodeCamp/Developer_Quiz_Site/pull/767#issuecomment-1753437895) in [freeCodeCamp/Developer_Quiz_Site](https://github.com/freeCodeCamp/Developer_Quiz_Site)
-2. 💪 Opened PR [#767](https://github.com/freeCodeCamp/Developer_Quiz_Site/pull/767) in [freeCodeCamp/Developer_Quiz_Site](https://github.com/freeCodeCamp/Developer_Quiz_Site)
-3. 🗣 Commented on [#752](https://github.com/freeCodeCamp/Developer_Quiz_Site/pull/752#issuecomment-1751324722) in [freeCodeCamp/Developer_Quiz_Site](https://github.com/freeCodeCamp/Developer_Quiz_Site)
-4. 💪 Opened PR [#752](https://github.com/freeCodeCamp/Developer_Quiz_Site/pull/752) in [freeCodeCamp/Developer_Quiz_Site](https://github.com/freeCodeCamp/Developer_Quiz_Site)
-5. 🔒 Closed issue [#1](https://github.com/Electrium-Mobility/electrium-website-remake/issues/1) in [Electrium-Mobility/electrium-website-remake](https://github.com/Electrium-Mobility/electrium-website-remake)
+1. 💪 Opened PR [#774](https://github.com/freeCodeCamp/Developer_Quiz_Site/pull/774) in [freeCodeCamp/Developer_Quiz_Site](https://github.com/freeCodeCamp/Developer_Quiz_Site)
+2. 🗣 Commented on [#767](https://github.com/freeCodeCamp/Developer_Quiz_Site/pull/767#issuecomment-1753437895) in [freeCodeCamp/Developer_Quiz_Site](https://github.com/freeCodeCamp/Developer_Quiz_Site)
+3. 💪 Opened PR [#767](https://github.com/freeCodeCamp/Developer_Quiz_Site/pull/767) in [freeCodeCamp/Developer_Quiz_Site](https://github.com/freeCodeCamp/Developer_Quiz_Site)
+4. 🗣 Commented on [#752](https://github.com/freeCodeCamp/Developer_Quiz_Site/pull/752#issuecomment-1751324722) in [freeCodeCamp/Developer_Quiz_Site](https://github.com/freeCodeCamp/Developer_Quiz_Site)
+5. 💪 Opened PR [#752](https://github.com/freeCodeCamp/Developer_Quiz_Site/pull/752) in [freeCodeCamp/Developer_Quiz_Site](https://github.com/freeCodeCamp/Developer_Quiz_Site)
 <!--END_SECTION:activity-->
 
 ### Blog Updates
