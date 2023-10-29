@@ -135,11 +135,11 @@ People are put here in order of response time to my asking for consent to adding
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#847](https://github.com/freeCodeCamp/Developer_Quiz_Site/pull/847#issuecomment-1769080500) in [freeCodeCamp/Developer_Quiz_Site](https://github.com/freeCodeCamp/Developer_Quiz_Site)
-2. 💪 Opened PR [#847](https://github.com/freeCodeCamp/Developer_Quiz_Site/pull/847) in [freeCodeCamp/Developer_Quiz_Site](https://github.com/freeCodeCamp/Developer_Quiz_Site)
-3. 🚀 Published release [I swear it works](https://github.com/fiona-cai/HTV2023/releases/tag/release-v2) in [fiona-cai/HTV2023](https://github.com/fiona-cai/HTV2023)
-4. 🚀 Published release [Game Release](https://github.com/fiona-cai/HTV2023/releases/tag/release) in [fiona-cai/HTV2023](https://github.com/fiona-cai/HTV2023)
-5. 💪 Opened PR [#774](https://github.com/freeCodeCamp/Developer_Quiz_Site/pull/774) in [freeCodeCamp/Developer_Quiz_Site](https://github.com/freeCodeCamp/Developer_Quiz_Site)
+1. 🚀 Published release [v0.1.0 release](https://github.com/vivian-dai/CupOfIce/releases/tag/v0.1.0) in [vivian-dai/CupOfIce](https://github.com/vivian-dai/CupOfIce)
+2. 🎉 Merged PR [#3](https://github.com/vivian-dai/CupOfIce/pull/3) in [vivian-dai/CupOfIce](https://github.com/vivian-dai/CupOfIce)
+3. 💪 Opened PR [#3](https://github.com/vivian-dai/CupOfIce/pull/3) in [vivian-dai/CupOfIce](https://github.com/vivian-dai/CupOfIce)
+4. 🗣 Commented on [#847](https://github.com/freeCodeCamp/Developer_Quiz_Site/pull/847#issuecomment-1769080500) in [freeCodeCamp/Developer_Quiz_Site](https://github.com/freeCodeCamp/Developer_Quiz_Site)
+5. 💪 Opened PR [#847](https://github.com/freeCodeCamp/Developer_Quiz_Site/pull/847) in [freeCodeCamp/Developer_Quiz_Site](https://github.com/freeCodeCamp/Developer_Quiz_Site)
 <!--END_SECTION:activity-->
 
 ### Blog Updates
