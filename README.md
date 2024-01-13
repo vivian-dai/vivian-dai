@@ -135,11 +135,11 @@ People are put here in order of response time to my asking for consent to adding
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/vivian-dai/theremin/issues/1) in [vivian-dai/theremin](https://github.com/vivian-dai/theremin)
-2. 🚀 Published release [v0.1.0 release](https://github.com/vivian-dai/CupOfIce/releases/tag/v0.1.0) in [vivian-dai/CupOfIce](https://github.com/vivian-dai/CupOfIce)
-3. 🎉 Merged PR [#3](https://github.com/vivian-dai/CupOfIce/pull/3) in [vivian-dai/CupOfIce](https://github.com/vivian-dai/CupOfIce)
-4. 💪 Opened PR [#3](https://github.com/vivian-dai/CupOfIce/pull/3) in [vivian-dai/CupOfIce](https://github.com/vivian-dai/CupOfIce)
-5. 🗣 Commented on [#847](https://github.com/freeCodeCamp/Developer_Quiz_Site/pull/847#issuecomment-1769080500) in [freeCodeCamp/Developer_Quiz_Site](https://github.com/freeCodeCamp/Developer_Quiz_Site)
+1. 🎉 Merged PR [#1](https://github.com/vivian-dai/MangoTango/pull/1) in [vivian-dai/MangoTango](https://github.com/vivian-dai/MangoTango)
+2. 💪 Opened PR [#1](https://github.com/vivian-dai/MangoTango/pull/1) in [vivian-dai/MangoTango](https://github.com/vivian-dai/MangoTango)
+3. ❗ Opened issue [#1](https://github.com/vivian-dai/theremin/issues/1) in [vivian-dai/theremin](https://github.com/vivian-dai/theremin)
+4. 🚀 Published release [v0.1.0 release](https://github.com/vivian-dai/CupOfIce/releases/tag/v0.1.0) in [vivian-dai/CupOfIce](https://github.com/vivian-dai/CupOfIce)
+5. 🎉 Merged PR [#3](https://github.com/vivian-dai/CupOfIce/pull/3) in [vivian-dai/CupOfIce](https://github.com/vivian-dai/CupOfIce)
 <!--END_SECTION:activity-->
 
 ### Blog Updates
