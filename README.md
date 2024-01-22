@@ -135,11 +135,11 @@ People are put here in order of response time to my asking for consent to adding
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/vivian-dai/PicoCTF2021-Writeup/pull/17) in [vivian-dai/PicoCTF2021-Writeup](https://github.com/vivian-dai/PicoCTF2021-Writeup)
-2. 🗣 Commented on [#16](https://github.com/vivian-dai/PicoCTF2021-Writeup/pull/16#issuecomment-1900451772) in [vivian-dai/PicoCTF2021-Writeup](https://github.com/vivian-dai/PicoCTF2021-Writeup)
-3. ❌ Closed PR [#16](https://github.com/vivian-dai/PicoCTF2021-Writeup/pull/16) in [vivian-dai/PicoCTF2021-Writeup](https://github.com/vivian-dai/PicoCTF2021-Writeup)
-4. 🎉 Merged PR [#1](https://github.com/vivian-dai/MangoTango/pull/1) in [vivian-dai/MangoTango](https://github.com/vivian-dai/MangoTango)
-5. 💪 Opened PR [#1](https://github.com/vivian-dai/MangoTango/pull/1) in [vivian-dai/MangoTango](https://github.com/vivian-dai/MangoTango)
+1. 🗣 Commented on [#18](https://github.com/vivian-dai/PicoCTF2021-Writeup/issues/18#issuecomment-1902753180) in [vivian-dai/PicoCTF2021-Writeup](https://github.com/vivian-dai/PicoCTF2021-Writeup)
+2. 🎉 Merged PR [#17](https://github.com/vivian-dai/PicoCTF2021-Writeup/pull/17) in [vivian-dai/PicoCTF2021-Writeup](https://github.com/vivian-dai/PicoCTF2021-Writeup)
+3. 🗣 Commented on [#16](https://github.com/vivian-dai/PicoCTF2021-Writeup/pull/16#issuecomment-1900451772) in [vivian-dai/PicoCTF2021-Writeup](https://github.com/vivian-dai/PicoCTF2021-Writeup)
+4. ❌ Closed PR [#16](https://github.com/vivian-dai/PicoCTF2021-Writeup/pull/16) in [vivian-dai/PicoCTF2021-Writeup](https://github.com/vivian-dai/PicoCTF2021-Writeup)
+5. 🎉 Merged PR [#1](https://github.com/vivian-dai/MangoTango/pull/1) in [vivian-dai/MangoTango](https://github.com/vivian-dai/MangoTango)
 <!--END_SECTION:activity-->
 
 ### Blog Updates
