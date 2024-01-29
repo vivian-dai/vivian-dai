@@ -135,11 +135,11 @@ People are put here in order of response time to my asking for consent to adding
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/vivian-dai/PicoCTF2021-Writeup/issues/18#issuecomment-1902753180) in [vivian-dai/PicoCTF2021-Writeup](https://github.com/vivian-dai/PicoCTF2021-Writeup)
-2. 🎉 Merged PR [#17](https://github.com/vivian-dai/PicoCTF2021-Writeup/pull/17) in [vivian-dai/PicoCTF2021-Writeup](https://github.com/vivian-dai/PicoCTF2021-Writeup)
-3. 🗣 Commented on [#16](https://github.com/vivian-dai/PicoCTF2021-Writeup/pull/16#issuecomment-1900451772) in [vivian-dai/PicoCTF2021-Writeup](https://github.com/vivian-dai/PicoCTF2021-Writeup)
-4. ❌ Closed PR [#16](https://github.com/vivian-dai/PicoCTF2021-Writeup/pull/16) in [vivian-dai/PicoCTF2021-Writeup](https://github.com/vivian-dai/PicoCTF2021-Writeup)
-5. 🎉 Merged PR [#1](https://github.com/vivian-dai/MangoTango/pull/1) in [vivian-dai/MangoTango](https://github.com/vivian-dai/MangoTango)
+1. 💪 Opened PR [#38](https://github.com/Shopify/eng-intern-assessment-react-native/pull/38) in [Shopify/eng-intern-assessment-react-native](https://github.com/Shopify/eng-intern-assessment-react-native)
+2. 🗣 Commented on [#18](https://github.com/vivian-dai/PicoCTF2021-Writeup/issues/18#issuecomment-1902753180) in [vivian-dai/PicoCTF2021-Writeup](https://github.com/vivian-dai/PicoCTF2021-Writeup)
+3. 🎉 Merged PR [#17](https://github.com/vivian-dai/PicoCTF2021-Writeup/pull/17) in [vivian-dai/PicoCTF2021-Writeup](https://github.com/vivian-dai/PicoCTF2021-Writeup)
+4. 🗣 Commented on [#16](https://github.com/vivian-dai/PicoCTF2021-Writeup/pull/16#issuecomment-1900451772) in [vivian-dai/PicoCTF2021-Writeup](https://github.com/vivian-dai/PicoCTF2021-Writeup)
+5. ❌ Closed PR [#16](https://github.com/vivian-dai/PicoCTF2021-Writeup/pull/16) in [vivian-dai/PicoCTF2021-Writeup](https://github.com/vivian-dai/PicoCTF2021-Writeup)
 <!--END_SECTION:activity-->
 
 ### Blog Updates
