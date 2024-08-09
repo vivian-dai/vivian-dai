@@ -135,7 +135,7 @@ People are put here in order of response time to my asking for consent to adding
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Alljoined/stimulus-biosemi/pull/5) in [Alljoined/stimulus-biosemi](https://github.com/Alljoined/stimulus-biosemi)
+1. 💪 Opened PR [#3](https://github.com/xuserena12/Bound-Capture/pull/3) in [xuserena12/Bound-Capture](https://github.com/xuserena12/Bound-Capture)
 2. 💪 Opened PR [#5](https://github.com/Alljoined/stimulus-biosemi/pull/5) in [Alljoined/stimulus-biosemi](https://github.com/Alljoined/stimulus-biosemi)
 3. 🎉 Merged PR [#4](https://github.com/Alljoined/stimulus-biosemi/pull/4) in [Alljoined/stimulus-biosemi](https://github.com/Alljoined/stimulus-biosemi)
 4. 💪 Opened PR [#4](https://github.com/Alljoined/stimulus/pull/4) in [Alljoined/stimulus](https://github.com/Alljoined/stimulus)
