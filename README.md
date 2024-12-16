@@ -135,11 +135,11 @@ People are put here in order of response time to my asking for consent to adding
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/vivian-dai/vivian-dai.github.io/pull/3) in [vivian-dai/vivian-dai.github.io](https://github.com/vivian-dai/vivian-dai.github.io)
-2. 🎉 Merged PR [#2](https://github.com/vivian-dai/vivian-dai.github.io/pull/2) in [vivian-dai/vivian-dai.github.io](https://github.com/vivian-dai/vivian-dai.github.io)
-3. 🎉 Merged PR [#1](https://github.com/vivian-dai/vivian-dai.github.io/pull/1) in [vivian-dai/vivian-dai.github.io](https://github.com/vivian-dai/vivian-dai.github.io)
-4. 💪 Opened PR [#786](https://github.com/DevDegree/eng-intern-challenge/pull/786) in [DevDegree/eng-intern-challenge](https://github.com/DevDegree/eng-intern-challenge)
-5. 💪 Opened PR [#3](https://github.com/xuserena12/Bound-Capture/pull/3) in [xuserena12/Bound-Capture](https://github.com/xuserena12/Bound-Capture)
+1. 🎉 Merged PR [#1](https://github.com/vivian-dai/RandomDumpOfSmallStupidProjects/pull/1) in [vivian-dai/RandomDumpOfSmallStupidProjects](https://github.com/vivian-dai/RandomDumpOfSmallStupidProjects)
+2. 🗣 Commented on [#1](https://github.com/vivian-dai/RandomDumpOfSmallStupidProjects/pull/1#issuecomment-2544167601) in [vivian-dai/RandomDumpOfSmallStupidProjects](https://github.com/vivian-dai/RandomDumpOfSmallStupidProjects)
+3. 🗣 Commented on [#1](https://github.com/vivian-dai/RandomDumpOfSmallStupidProjects/pull/1#issuecomment-2544156635) in [vivian-dai/RandomDumpOfSmallStupidProjects](https://github.com/vivian-dai/RandomDumpOfSmallStupidProjects)
+4. 🎉 Merged PR [#3](https://github.com/vivian-dai/vivian-dai.github.io/pull/3) in [vivian-dai/vivian-dai.github.io](https://github.com/vivian-dai/vivian-dai.github.io)
+5. 🎉 Merged PR [#2](https://github.com/vivian-dai/vivian-dai.github.io/pull/2) in [vivian-dai/vivian-dai.github.io](https://github.com/vivian-dai/vivian-dai.github.io)
 <!--END_SECTION:activity-->
 
 ### Blog Updates
