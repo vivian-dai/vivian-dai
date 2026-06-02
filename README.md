@@ -136,8 +136,8 @@ People are put here in order of response time to my asking for consent to adding
 ### Github Activity
 <!--START_SECTION:activity-->
 1. 🔒 Closed issue [#25707](https://github.com/yugabyte/yugabyte-db/issues/25707) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)
-2. 🗣 Commented on [#25707](https://github.com/yugabyte/yugabyte-db/issues/25707#issuecomment-4568757451) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)
-3. 🗣 Commented on [#1](https://github.com/vivian-dai/RandomDumpOfSmallStupidProjects/pull/1#issuecomment-2544156635) in [vivian-dai/RandomDumpOfSmallStupidProjects](https://github.com/vivian-dai/RandomDumpOfSmallStupidProjects)
+2. 🔒 Closed issue [#25707](https://github.com/yugabyte/yugabyte-db/issues/25707) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)
+3. 🗣 Commented on [#25707](https://github.com/yugabyte/yugabyte-db/issues/25707#issuecomment-4568757451) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)
 4. 🎉 Merged PR [#3](https://github.com/vivian-dai/vivian-dai.github.io/pull/3) in [vivian-dai/vivian-dai.github.io](https://github.com/vivian-dai/vivian-dai.github.io)
 5. 🎉 Merged PR [#2](https://github.com/vivian-dai/vivian-dai.github.io/pull/2) in [vivian-dai/vivian-dai.github.io](https://github.com/vivian-dai/vivian-dai.github.io)
 <!--END_SECTION:activity-->
