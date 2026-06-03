@@ -135,11 +135,11 @@ People are put here in order of response time to my asking for consent to adding
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#25707](https://github.com/yugabyte/yugabyte-db/issues/25707) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)
-2. 🔒 Closed issue [#25707](https://github.com/yugabyte/yugabyte-db/issues/25707) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)
-3. 🗣 Commented on [#25707](https://github.com/yugabyte/yugabyte-db/issues/25707#issuecomment-4568757451) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)
-4. 🎉 Merged PR [#3](https://github.com/vivian-dai/vivian-dai.github.io/pull/3) in [vivian-dai/vivian-dai.github.io](https://github.com/vivian-dai/vivian-dai.github.io)
-5. 🎉 Merged PR [#2](https://github.com/vivian-dai/vivian-dai.github.io/pull/2) in [vivian-dai/vivian-dai.github.io](https://github.com/vivian-dai/vivian-dai.github.io)
+1. 🗣 Commented on [#18091](https://github.com/yugabyte/yugabyte-db/issues/18091#issuecomment-4605513696) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)
+2. 🔒 Closed issue [#18091](https://github.com/yugabyte/yugabyte-db/issues/18091) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)
+3. 🔒 Closed issue [#25707](https://github.com/yugabyte/yugabyte-db/issues/25707) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)
+4. 🔒 Closed issue [#25707](https://github.com/yugabyte/yugabyte-db/issues/25707) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)
+5. 🗣 Commented on [#25707](https://github.com/yugabyte/yugabyte-db/issues/25707#issuecomment-4568757451) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)
 <!--END_SECTION:activity-->
 
 ### Blog Updates
