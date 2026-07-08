@@ -135,11 +135,11 @@ People are put here in order of response time to my asking for consent to adding
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#32470](https://github.com/yugabyte/yugabyte-db/issues/32470) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)
+1. 🔒 Closed issue [#32469](https://github.com/yugabyte/yugabyte-db/issues/32469) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)
 2. ℹ️ Labeled issue [#32470](https://github.com/yugabyte/yugabyte-db/issues/32470) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)
-3. ❗ Opened issue [#32470](https://github.com/yugabyte/yugabyte-db/issues/32470) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)
-4. ℹ️ Assigned issue [#32470](https://github.com/yugabyte/yugabyte-db/issues/32470) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)
-5. ℹ️ Assigned issue [#32469](https://github.com/yugabyte/yugabyte-db/issues/32469) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)
+3. ℹ️ Labeled issue [#32470](https://github.com/yugabyte/yugabyte-db/issues/32470) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)
+4. ❗ Opened issue [#32470](https://github.com/yugabyte/yugabyte-db/issues/32470) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)
+5. ℹ️ Assigned issue [#32470](https://github.com/yugabyte/yugabyte-db/issues/32470) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)
 <!--END_SECTION:activity-->
 
 ### Blog Updates
