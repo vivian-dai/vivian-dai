@@ -135,11 +135,11 @@ People are put here in order of response time to my asking for consent to adding
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#33989](https://github.com/yugabyte/yugabyte-db/issues/33989) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)
-2. ℹ️ Labeled issue [#33989](https://github.com/yugabyte/yugabyte-db/issues/33989) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)
-3. ℹ️ Assigned issue [#33989](https://github.com/yugabyte/yugabyte-db/issues/33989) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)
-4. ❗ Opened issue [#33989](https://github.com/yugabyte/yugabyte-db/issues/33989) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)
-5. 🗣 Commented on [#33838](https://github.com/yugabyte/yugabyte-db/issues/33838#issuecomment-5703257791) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)
+1. 🗣 Commented on [#4029](https://github.com/yugabyte/yugabyte-db/issues/4029#issuecomment-5738014397) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)
+2. 🔒 Closed issue [#4029](https://github.com/yugabyte/yugabyte-db/issues/4029) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)
+3. ℹ️ Labeled issue [#33989](https://github.com/yugabyte/yugabyte-db/issues/33989) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)
+4. ℹ️ Labeled issue [#33989](https://github.com/yugabyte/yugabyte-db/issues/33989) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)
+5. ℹ️ Assigned issue [#33989](https://github.com/yugabyte/yugabyte-db/issues/33989) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)
 <!--END_SECTION:activity-->
 
 ### Blog Updates
